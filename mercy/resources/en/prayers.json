@@ -1,0 +1,185 @@
+{
+  "prayers": [
+    {
+      "id": "sign_of_cross",
+      "name": "Sign of the Cross",
+      "markdownText": "In the name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+      "imageURL": "",
+      "media": [
+      ]
+    },
+    {
+      "id": "our_father",
+      "name": "The Lord's Prayer (Our Father)",
+      "markdownText": "Our Father, who art in heaven, hallowed be Thy name; Thy kingdom come; Thy will be done on earth as it is in heaven. Give us this day our daily bread; and forgive us our trespasses as we forgive those who trespass against us; and lead us not into temptation, but deliver us from evil. Amen.",
+      "imageURL": "",
+      "media": [
+      ]
+    },
+    {
+      "id": "hail_mary",
+      "name": "The Hail Mary",
+      "markdownText": "Hail Mary, full of grace, the Lord is with thee; blessed art thou amongst women, and blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death. Amen.",
+      "imageURL": "",
+      "media": [
+      ]
+    },
+    {
+      "id": "glory_be",
+      "name": "The Glory Be (Doxology)",
+      "markdownText": "Glory be to the Father, and to the Son, and to the Holy Spirit, as it was in the beginning, is now, and ever shall be, world without end. Amen.",
+      "imageURL": "",
+      "media": [
+      ]
+    },
+    {
+      "id": "apostles_creed",
+      "name": "The Apostles' Creed",
+      "markdownText": "I believe in God, the Father almighty, Creator of heaven and earth, and in Jesus Christ, His only Son, our Lord, who was conceived by the Holy Spirit, born of the Virgin Mary, suffered under Pontius Pilate, was crucified, died, and was buried; He descended into hell; on the third day He rose again from the dead; He ascended into heaven, and is seated at the right hand of God the Father almighty; from there He will come to judge the living and the dead. I believe in the Holy Spirit, the holy catholic Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and life everlasting. Amen.",
+      "imageURL": "",
+      "media": [
+      ]
+    },
+    {
+      "id": "nicene_creed",
+      "name": "The Nicene Creed",
+      "markdownText": "We believe in one God, the Father almighty, maker of heaven and earth, of all things visible and invisible. And in one Lord Jesus Christ, the only begotten Son of God, begotten of the Father before all worlds; Light of Light, true God of true God; begotten, not made; of one essence with the Father; by whom all things were made. Who for us men and for our salvation came down from heaven, and was incarnate by the Holy Spirit of the virgin Mary, and was made man; and was crucified also for us under Pontius Pilate; He suffered and was buried; and the third day He rose again, according to the Scriptures; and ascended into heaven, and sits on the right hand of the Father; and He shall come again, with glory, to judge the quick and the dead; whose kingdom shall have no end. Amen.",
+      "imageURL": "",
+      "media": [
+      ]
+    },
+    {
+      "id": "act_of_contrition",
+      "name": "The Act of Contrition",
+      "markdownText": "O my God, I am heartily sorry for having offended Thee, and I detest all my sins, because I dread the loss of heaven, and the pains of hell; but most of all because they offend Thee, my God, who art all good and deserving of all my love. I firmly resolve, with the help of Thy grace, to confess my sins, do penance, and to amend my life. Amen.",
+      "imageURL": "",
+      "media": [
+      ]
+    },
+    {
+      "id": "the_angelus",
+      "name": "The Angelus",
+      "markdownText": "The Angel of the Lord declared unto Mary, And she conceived of the Holy Spirit. Hail Mary... Behold the handmaid of the Lord. Be it done unto me according to Thy word. Hail Mary... And the Word was made flesh, And dwelt among us. Hail Mary... Pray for us, O Holy Mother of God, That we may be made worthy of the promises of Christ. Let us pray: Pour forth, we beseech Thee, O Lord, Thy grace into our hearts; that, as we have known the incarnation of Christ, Thy Son by the message of an angel, so by His passion and cross we may be brought to the glory of His resurrection, through the same Christ Our Lord. Amen.",
+      "imageURL": "",
+      "media": [
+      ]
+    },
+    {
+      "id": "the_rosary",
+      "name": "The Rosary",
+      "markdownText": "The Rosary is a scripture-based prayer. It begins with the Apostles' Creed, which summarizes the great mysteries of the Catholic faith. The Our Father, which introduces each mystery, is from the Gospels. The first part of the Hail Mary is the angel's words announcing Christ's birth and Elizabeth's greeting to Mary. St. Pius V officially added the second part of the Hail Mary. The Mysteries of the Rosary center on the events of Christ's life. There are four sets of Mysteries: Joyful, Sorrowful, Glorious, and—added by John Paul II in 2002—the Luminous.",
+      "imageURL": "",
+      "media": [
+      ]
+    },
+    {
+      "id": "the_divine_mercy_chaplet",
+      "name": "The Divine Mercy Chaplet",
+      "markdownText": "Eternal Father, I offer you the Body and Blood, Soul and Divinity of Your dearly beloved Son, Our Lord Jesus Christ, in atonement for our sins and those of the whole world. For the sake of His sorrowful Passion, have mercy on us and on the whole world. Holy God, Holy Mighty One, Holy Immortal One, have mercy on us and on the whole world.",
+      "imageURL": "",
+      "media": [
+      ]
+    },
+    {
+      "id": "the_stations_of_the_cross",
+      "name": "The Stations of the Cross",
+      "markdownText": "The Stations of the Cross are a 14-step Catholic devotion that commemorates Jesus Christ's last day on Earth as a man. The 14 devotions, or stations, focus on specific events of His last day, beginning with His condemnation. The stations are commonly used as a mini pilgrimage as the individual moves from station to station. At each station, the individual recalls and meditates on a specific event from Christ's last day. Specific prayers are recited, then the individual moves to the next station until all 14 are complete.",
+      "imageURL": "",
+      "media": [
+      ]
+    },
+    {
+      "id": "litany_of_the_blessed_virgin_mary",
+      "name": "The Litany of the Blessed Virgin Mary (Litany of Loreto)",
+      "markdownText": "Lord, have mercy. Christ, have mercy. Lord, have mercy. Christ, hear us. Christ, graciously hear us. God, the Father of Heaven, have mercy on us. God the Son, Redeemer of the world, have mercy on us. God the Holy Spirit, have mercy on us. Holy Trinity, One God, have mercy on us. Holy Mary, pray for us. (This continues with each invocation specifically directed to Mary, calling upon her under different titles, each followed by 'pray for us.')",
+      "imageURL": "",
+      "media": [
+      ]
+    },
+    {
+      "id": "morning_offering",
+      "name": "The Morning Offering",
+      "markdownText": "O Jesus, through the Immaculate Heart of Mary, I offer You my prayers, works, joys, and sufferings of this day for all the intentions of Your Sacred Heart, in union with the Holy Sacrifice of the Mass throughout the world, in reparation for my sins, for the intentions of all my relatives and friends, and in particular for the intentions of the Holy Father. Amen.",
+      "imageURL": "",
+      "media": [
+      ]
+    },
+    {
+      "id": "guardian_angel_prayer",
+      "name": "The Guardian Angel Prayer",
+      "markdownText": "Angel of God, my guardian dear, to whom God's love commits me here, ever this day be at my side, to light and guard, to rule and guide. Amen.",
+      "imageURL": "",
+      "media": [
+      ]
+    },
+    {
+      "id": "memorare",
+      "name": "The Memorare",
+      "markdownText": "Remember, O most gracious Virgin Mary, that never was it known that anyone who fled to thy protection, implored thy help, or sought thine intercession, was left unaided. Inspired by this confidence, I fly unto thee, O Virgin of virgins, my mother; to thee do I come, before thee I stand, sinful and sorrowful. O Mother of the Word Incarnate, despise not my petitions, but in thy mercy hear and answer me. Amen.",
+      "imageURL": "",
+      "media": [
+      ]
+    },
+    {
+      "id": "prayer_to_st_michael",
+      "name": "The Prayer to St. Michael the Archangel",
+      "markdownText": "Saint Michael the Archangel, defend us in battle. Be our protection against the wickedness and snares of the devil; may God rebuke him, we humbly pray; and do thou, O Prince of the Heavenly Host, by the power of God, cast into hell Satan and all the evil spirits who prowl about the world seeking the ruin of souls. Amen.",
+      "imageURL": "",
+      "media": [
+      ]
+    },
+    {
+      "id": "act_of_faith",
+      "name": "The Act of Faith",
+      "markdownText": "O my God, I firmly believe that you are one God in three divine Persons, Father, Son, and Holy Spirit. I believe that your divine Son became man and died for our sins and that he will come to raise the dead and judge the world at the end of time. I believe these and all the truths which the Holy Catholic Church teaches because you have revealed them who can neither deceive nor be deceived. Amen.",
+      "imageURL": "",
+      "media": [
+      ]
+    },
+    {
+      "id": "act_of_hope",
+      "name": "The Act of Hope",
+      "markdownText": "O my God, relying on your infinite goodness and promises, I hope to obtain pardon of my sins, the help of your grace, and life everlasting, through the merits of Jesus Christ, my Lord and Redeemer. Amen.",
+      "imageURL": "",
+      "media": [
+      ]
+    },
+    {
+      "id": "act_of_love",
+      "name": "The Act of Love (Charity)",
+      "markdownText": "O my God, I love you above all things, with my whole heart and soul, because you are all-good and worthy of all love. I love my neighbor as myself for the love of you. I forgive all who have injured me and ask pardon of all whom I have injured. Amen.",
+      "imageURL": "",
+      "media": [
+      ]
+    },
+    {
+      "id": "prayer_for_the_dead",
+      "name": "The Prayer for the Dead",
+      "markdownText": "Eternal rest grant unto them, O Lord, and let perpetual light shine upon them. May the souls of the faithful departed, through the mercy of God, rest in peace. Amen.",
+      "imageURL": "",
+      "media": [
+      ]
+    },
+        {
+        "id": "grace_before_meals",
+        "name": "The Grace Before Meals",
+        "markdownText": "Bless us, O Lord, and these Thy gifts, which we are about to receive from Thy bounty, through Christ our Lord. Amen.",
+        "imageURL": "",
+        "media": []
+    },
+    {
+        "id": "grace_after_meals",
+        "name": "The Grace After Meals",
+        "markdownText": "We give Thee thanks, Almighty God, for all Thy benefits, who livest and reignest forever and ever. May the souls of the faithful departed, through the mercy of God, rest in peace. Amen.",
+        "imageURL": "",
+        "media": []
+    },
+    {
+        "id": "prayer_to_the_holy_spirit",
+        "name": "The Prayer to the Holy Spirit",
+        "markdownText": "Come, Holy Spirit, fill the hearts of Thy faithful and kindle in them the fire of Thy love. Send forth Thy Spirit and they shall be created. And Thou shalt renew the face of the earth. O God, who by the light of the Holy Spirit, did instruct the hearts of the faithful, grant that by the same Holy Spirit we may be truly wise and ever enjoy His consolations. Through Christ Our Lord, Amen.",
+        "imageURL": "",
+        "media": []
+    }
+  ]
+}

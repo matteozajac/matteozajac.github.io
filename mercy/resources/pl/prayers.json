@@ -1,0 +1,104 @@
+{
+  "prayers": [
+    {
+      "id": "123e4567-e89b-12d3-a456-426614174000",
+      "name": "Ojcze nasz",
+      "markdownText": "Ojcze nasz, któryś jest w niebie, \n święć się imię Twoje; \n przyjdź królestwo Twoje; \n bądź wola Twoja jako w niebie tak i na ziemi. \n Chleba naszego powszedniego daj nam dzisiaj; \n i odpuść nam nasze winy, jako i my odpuszczamy naszym winowajcom; \n i nie wódź nas na pokuszenie, \n ale nas zbaw ode złego. Amen.",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Cima_da_Conegliano%2C_God_the_Father.jpg",
+      "media": [
+        {
+          "id": "1b671a64-40d5-491e-99b0-da01ff1f3341",
+          "url": "https://example.com/ojcze_nasz_audio.mp3",
+          "name": "Audio Ojcze nasz",
+          "autor": {
+            "name": "Jan Kowalski",
+            "info": "Jan jest znanym dyrygentem chóru kościelnego."
+          }
+        }
+      ]
+    },
+    {
+      "id": "6ecd8c99-4036-403d-bf84-cf571e91288b",
+      "name": "Zdrowaś Mario",
+      "markdownText": "Zdrowaś Mario, łaski pełna, Pan z Tobą, \n błogosławionaś Ty między niewiastami, \n i błogosławiony owoc żywota Twojego, Jezus. \n Święta Maryjo, Matko Boża, módl się za nami grzesznymi, \n teraz i w godzinę śmierci naszej. Amen.",
+      "imageURL": "https://i0.wp.com/paulinefathers.org.au/wp-content/uploads/2022/10/Matka-Boza-Jasna-Gora-Faces.jpg?w=1000&ssl=1",
+      "media": [
+        {
+          "id": "3ba93d96-2d3f-4a4e-a447-273d7f79e6ab",
+          "url": "https://example.com/zdrowas_mario_audio.mp3",
+          "name": "Audio Zdrowaś Mario",
+          "autor": {
+            "name": "Anna Nowak",
+            "info": "Anna jest znaną piosenkarką religijną."
+          }
+        }
+      ]
+    },
+    {
+      "id": "567e429b-b23f-45d3-b456-426614177890",
+      "name": "Koronka do Miłosierdzia Bożego",
+      "time": "15:00",
+      "markdownText": "Ojcze nasz... \n Zdrowaś Maryjo... \n Wierzę w Boga... \n\nNa dużych paciorkach odmawiamy słowa: \n „Ojcze Przedwieczny, ofiaruję Ci ciało i krew, duszę i bóstwo najdroższego Syna Twojego, a Pana naszego Jezusa Chrystusa, na zadośćuczynienie za grzechy nasze i całego świata”. \n\nNa małych paciorkach odmawiamy słowa: \n „Dla Jego bolesnej Męki miej miłosierdzie dla nas i całego świata”. \n\nNa zakończenie odmawiamy trzykrotnie słowa: \n „Święty Boże, Święty Mocny, Święty Nieśmiertelny, zmiłuj się nad nami i nad całym światem”. \n „Boże w Trójcy Jedyny, zmiłuj się nad nami i nad całym światem”. \n „Jezu, ufam Tobie”. Amen.",
+      "imageURL": "https://i.ytimg.com/vi/CBQThvaCYIA/maxresdefault.jpg",
+      "media": [
+        {
+          "id": "3e129a75-6d3f-4a5e-a447-878f7f79e8bb",
+          "url": "https://firebasestorage.googleapis.com/v0/b/prayerbook-46996.appspot.com/o/koronka_do_milosierdzia_bozego.mp3?alt=media&token=c907b12c-f1be-4893-b486-e362ccdcacb0",
+          "name": "Koronka do Miłosierdzia Bożego",
+          "autor": {
+            "name": "Adam Szustak",
+            "info": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "70a79c36-c25d-46f6-b33f-83a52546c9e3",
+      "name": "Litania Loretańska",
+      "markdownText": "Kyrie, elejson.\nChryste, elejson.\nKyrie, elejson.\nChryste, usłysz nas.\nChryste, wysłuchaj nas.\n\nOjcze z nieba, Boże,\n zmiłuj się nad nami.\nSynu, Odkupicielu świata, Boże,\nDuchu Święty, Boże,\nŚwięta Trójco, Jedyny Boże,\n\nŚwięta Maryjo,\n módl się za nami.\nŚwięta Boża Rodzicielko,\n módl się...\nŚwięta Panno nad pannami,\nMatko Chrystusowa,\nMatko Kościoła,\nMatko łaski Bożej,\nMatko Miłosierdzia,\nMatko nieskalana,\nMatko najczystsza,\nMatko dziewicza,\nMatko nienaruszona,\nMatko najmilsza,\nMatko przedziwna,\nMatko dobrej rady,\nMatko Stworzyciela,\nMatko Zbawiciela,\nPanno roztropna,\nPanno czcigodna,\nPanno wsławiona,\nPanno można,\nPanno łaskawa,\nPanno wierna,\nZwierciadło sprawiedliwości,\nStolico mądrości,\nPrzyczyno naszej radości,\nPrzybytku Ducha Świętego,\nPrzybytku chwalebny,\nPrzybytku sławny pobożności,\nRóżo duchowna,\nWieżo Dawidowa,\nWieżo z kości słoniowej,\nDomie złoty,\nArko przymierza,\nBramo niebieska,\nGwiazdo zaranna,\nUzdrowienie chorych,\nUcieczko grzesznych,\nPocieszycielko strapionych,\nWspomożenie wiernych,\nKrólowo Aniołów,\nKrólowo Patriarchów,\nKrólowo Proroków,\nKrólowo Apostołów,\nKrólowo Męczenników,\nKrólowo Wyznawców,\nKrólowo Dziewic,\nKrólowo wszystkich Świętych,\nKrólowo bez zmazy pierworodnej poczęta,\nKrólowo wniebowzięta,\nKrólowo różańca świętego,\nKrólowo rodzin,\nKrólowo pokoju,\nKrólowo Polski,\n\nBaranku Boży, który gładzisz grzechy świata,\n przepuść nam, Panie.\nBaranku Boży, który gładzisz grzechy świata,\n wysłuchaj nas, Panie.\nBaranku Boży, który gładzisz grzechy świata,\n zmiłuj się nad nami.\n\nMódl się za nami, Święta Boża Rodzicielko.\nAbyśmy się stali godnymi obietnic Chrystusowych.\n\nMódlmy się. Panie, nasz Boże, daj nam, sługom swoim, cieszyć się trwałym zdrowiem duszy i ciała, i za wstawiennictwem Najświętszej Maryi, zawsze Dziewicy, uwolnij nas od doczesnych utrapień i obdarz wieczną radością. Przez Chrystusa, Pana naszego. Amen.\n\nPod Twoją obronę uciekamy się, Święta Boża Rodzicielko, naszymi prośbami racz nie gardzić w potrzebach naszych, ale od wszelakich złych przygód racz nas zawsze wybawiać, Panno chwalebna i błogosławiona. O Pani nasza, Orędowniczko nasza, Pośredniczko nasza, Pocieszycielko nasza. Z Synem swoim nas pojednaj, Synowi swojemu nas polecaj, swojemu Synowi nas oddawaj.",
+      "imageURL": "https://cdn.medme.pl/zdjecie/12531,510,340,1/litania-loretanska.jpg",
+      "media": [
+        {
+          "id": "a982e88c-0b86-43eb-8d8f-cf6f65d2ce1b",
+          "url": "https://api.modlitwawdrodze.pl/fileadmin/user_upload/Modlitewnik/Litanie/Litania_Loretanska_z_modlitwami.mp3",
+          "name": "Audio Litania Loretańska",
+          "autor": {
+            "name": "Anonimowy",
+            "info": "Nieznany autor nagrania."
+          }
+        }
+      ]
+    },
+    {
+      "id": "40a79c36-c25d-46f6-b33f-83a52546c9e4",
+      "name": "Anioł Pański",
+      "time": "12:00",
+      "markdownText": "Anioł Pański zwiastował Pannie Maryi\ni poczęła z Ducha Świętego.\n*Zdrowaś Maryjo…*\n    Oto ja służebnica Pańska,\n    niech mi się stanie według słowa Twego.\n    *Zdrowaś Maryjo…*\nA Słowo ciałem się stało,\ni zamieszkało między nami.\n*Zdrowaś Maryjo…*\n\n**P.** Módl się za nami, święta Boża Rodzicielko.\n**W.** Abyśmy się stali godnymi obietnic Chrystusowych.\n\n**Módlmy się:**\nBoże, przez zwiastowanie anielskie poznaliśmy wcielenie Chrystusa, Twojego Syna, prosimy Cię, wlej w nasze serca swoją łaskę, abyśmy przez Jego mękę i krzyż zostali doprowadzeni do chwały zmartwychwstania. Przez Chrystusa, Pana naszego. Amen.",
+      "imageURL": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2023/08/15/2023-08-15-angelus/1692093759942.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg",
+      "media": [
+        {
+          "id": "1b856558-4be3-11ee-be56-0242ac120002",
+          "url": "https://www.radioem.pl/files/14/09/17/955443_aniol_panski.mp3",
+          "name": "Anioł Pański śpiewany"
+        }
+      ]
+    },
+    {
+      "id": "99a79c36-c25d-46f6-b33f-83a52546c9e4",
+      "name": "Apel Jasnogórski",
+      "time": "21:00",
+      "markdownText": "Bogurodzica, dziewica, Bogiem sławiena Maryja! U twego syna, Gospodzina, matko zwolena Maryja! Ziści nam, spuści nam. Kirielejson.\n\nTwego dziela Krzciciela, bożyce, Usłysz głosy, napełni myśli człowiecze. Słysz modlitwę, jąż nosimy, A dać raczy, jegoż prosimy, A na świecie zbożny pobyt, Po żywocie rajski przebyt. Kirielejson.\n\nMaryjo, Królowo Polski Maryjo Królowo Polski, jestem przy Tobie pamiętam, (x2) czuwam.\n\nMaryjo, Królowo Polski Maryjo Królowo Polski, jestem przy Tobie pamiętam, (x2) czuwam.\n\nMaryjo, Królowo Polski Maryjo Królowo Polski, jestem przy Tobie pamiętam, (x2) czuwam",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/3/30/Czestochowska.jpg",
+      "media": [
+        {
+          "id": "b282e88c-0b86-43eb-8d8f-cf6f65d2cd2a",
+          "url": "https://www.radiomaryja.pl/wp-content/uploads/2014/07/2014.07.12.apeljasnogorski.mp3",
+          "name": "Apel Jasnogórski",
+          "autor": {
+            "name": "Paulini z Częstochowy"
+          }
+        }
+      ]
+    }
+  ]
+}

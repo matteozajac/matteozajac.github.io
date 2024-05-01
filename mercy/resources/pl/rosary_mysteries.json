@@ -1,0 +1,167 @@
+{
+  "name": "Różaniec",
+  "id": "rosary_1",
+  "mdText": "Papież Benedykt XVI wobec tajemnic różańcowych",
+  "rosaryMysteries": [
+    {
+      "title": "Zwiastowanie Najświętszej Maryi Panny",
+      "description": "I tajemnica radosna",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Bartolomé_Esteban_Perez_Murillo_023.jpg",
+      "order": 1,
+      "set": "joyful",
+      "mdText": "Rozwazania Rozancowe"
+    },
+    {
+      "title": "Nawiedzenie Świętej Elżbiety przez Najświętszą Maryję Pannę",
+      "description": "II tajemnica radosna",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/7/72/DARET_Jacques_Visitation.jpg",
+      "order": 2,
+      "set": "joyful",
+      "mdText": "Rozwazania Rozancowe"
+    },
+    {
+      "title": "Narodzenie Pana Jezusa",
+      "description": "III tajemnica radosna",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Adoration_of_the_sheperds_-_Matthias_Stomer.jpg",
+      "order": 3,
+      "set": "joyful",
+      "mdText": "Rozwazania Rozancowe"
+    },
+    {
+      "title": "Ofiarowanie Pana Jezusa w świątyni",
+      "description": "IV tajemnica radosna",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/9/92/Hans_Holbein_d._Ä._-_Darstellung_Christi_im_Tempel_-_Hamburger_Kunsthalle.jpg",
+      "order": 4,
+      "set": "joyful",
+      "mdText": "Rozwazania Rozancowe"
+    },
+    {
+      "title": "Odnalezienie Pana Jezusa w świątyni",
+      "description": "V tajemnica radosna",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/18/Disputa_con_los_doctores_%28El_Veronés%29_grande.jpg",
+      "order": 5,
+      "set": "joyful",
+      "mdText": "Rozwazania Rozancowe"
+    },
+    {
+      "title": "Chrzest Pana Jezusa w Jordanie",
+      "description": "I tajemnica światła",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/2/29/Verrocchio%2C_Leonardo_da_Vinci_-_Battesimo_di_Cristo.jpg",
+      "order": 1,
+      "set": "luminous",
+      "mdText": "Wyznanie wiary nie jest sumą zdań, nie jest jakąś teorią. Jego korzenie tkwią w wydarzeniu chrztu, w wydarzeniu spotkania Boga z człowiekiem. W tajemnicy chrztu Bóg pochyla się nad nami – ludźmi, wychodzi nam naprzeciw i w ten sposób sprawia, że zbliżamy się jedni do drugich. W ten sposób tworzy z nas wszystkich jedną wielką rodzinę w powszechnej wspólnocie Kościoła."
+    },
+    {
+      "title": "Cud w Kanie Galilejskiej",
+      "description": "II tajemnica światła",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Gerard_David_-_The_Marriage_at_Cana_-_WGA6020.jpg",
+      "order": 2,
+      "set": "luminous",
+      "mdText": "Miłość jest możliwa i możemy ją realizować, bo jesteśmy stworzeni na obraz Boga. Módlmy się za siebie nawzajem, aby Chrystus niósł nas na ramionach i byśmy uczyli się nosić jedni drugich."
+    },
+    {
+      "title": "Głoszenie Królestwa Bożego i wzywanie do nawrócenia",
+      "description": "III tajemnica światła",
+      "imageURL": "https://www.english.op.org/wp-content/uploads/2021/06/blogger-image-2012586728.jpg",
+      "order": 3,
+      "set": "luminous",
+      "mdText": "Pragniemy wciąż na nowo upraszać to zbawcze spojrzenie Jezusa: dla wszystkich, na których spoczywa w Kościele odpowiedzialność; dla wszystkich cierpiących z powodu zamętu panującego w naszych czasach; dla ludzi wielkich i małych. Panie, wciąż na nowo ogarniaj nas spojrzeniem, dźwigaj nas ze wszystkich upadków i bierz nas w swoje dobre ręce."
+    },
+    {
+      "title": "Przemienienie na górze Tabor",
+      "description": "IV tajemnica światła",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/5/51/Transfiguration_Raphael.jpg",
+      "order": 4,
+      "set": "luminous",
+      "mdText": "Tylko tam, gdzie widać Boga, naprawdę zaczyna się życie. Nie jesteśmy przypadkowym i pozbawionym sensu wytworem ewolucji. Każdy z nas jest owocem myśli Bożej. Każdy z nas jest chciany, każdy jest kochany, każdy jest niezbędny. Nie ma nic piękniejszego, niż zostać dosięgniętym, zaskoczonym przez Ewangelię, przez Chrystusa."
+    },
+    {
+      "title": "Ustanowienie Eucharystii",
+      "description": "V tajemnica światła",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Last_Supper.jpg",
+      "order": 5,
+      "set": "luminous",
+      "mdText": "Zjednoczenie z Chrystusem jest jednocześnie zjednoczeniem z wszystkimi, którym On się daje. Nie mogę mieć Chrystusa tylko dla siebie samego; mogę do Niego należeć tylko w jedności z wszystkimi, którzy już stali się lub staną się Jego."
+    },
+    {
+      "title": "Modlitwa Pana Jezusa w Ogrójcu",
+      "description": "I tajemnica bolesna",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/El_Greco_019.jpg/2560px-El_Greco_019.jpg",
+      "order": 1,
+      "set": "sorrowful",
+      "mdText": "Rozwazania Rozancowe"
+    },
+    {
+      "title": "Biczowanie Pana Jezusa",
+      "description": "II tajemnica bolesna",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/4/47/Flagellation-of-christ-_Rubens.jpg",
+      "order": 2,
+      "set": "sorrowful",
+      "mdText": "Rozwazania Rozancowe"
+    },
+    {
+      "title": "Cierniem ukoronowanie Pana Jezusa",
+      "description": "III tajemnica bolesna",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/9/97/Christ_Carrying_the_Cross_1580.jpg",
+      "order": 3,
+      "set": "sorrowful",
+      "mdText": "Rozwazania Rozancowe"
+    },
+    {
+      "title": "Droga Krzyżowa Pana Jezusa",
+      "description": "IV tajemnica bolesna",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/b/bd/5_Andrea_di_Bartolo._Way_to_Calvary._c._1400%2C_Thissen-Bornhemisza_coll._Madrid.jpg",
+      "order": 4,
+      "set": "sorrowful",
+      "mdText": "Rozwazania Rozancowe"
+    },
+    {
+      "title": "Ukrzyżowanie Pana Jezusa",
+      "description": "V tajemnica bolesna",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Cristo_crucificado.jpg",
+      "order": 5,
+      "set": "sorrowful",
+      "mdText": "Rozwazania Rozancowe"
+    },
+    {
+      "title": "Zmartwychwstanie Pana Jezusa",
+      "description": "I tajemnica chwalebna",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Rafael_-_ressureicaocristo01.jpg",
+      "order": 1,
+      "set": "glorious",
+      "mdText": "Rozwazania Rozancowe"
+    },
+    {
+      "title": "Wniebowstąpienie Pana Jezusa",
+      "description": "II tajemnica chwalebna",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/8/85/Jesus_ascending_to_heaven.jpg",
+      "order": 2,
+      "set": "glorious",
+      "mdText": "Rozwazania Rozancowe"
+    },
+    {
+      "title": "Zesłanie Ducha Świętego",
+      "description": "III tajemnica chwalebna",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Schnorr_von_Carolsfeld_Bibel_in_Bildern_1860_226.png",
+      "order": 3,
+      "set": "glorious",
+      "mdText": "Rozwazania Rozancowe"
+    },
+    {
+      "title": "Wniebowzięcie Najświętszej Maryi Panny",
+      "description": "IV tajemnica chwalebna",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Tizian_041.jpg",
+      "order": 4,
+      "set": "glorious",
+      "mdText": "Rozwazania Rozancowe"
+    },
+    {
+      "title": "Ukoronowanie Najświętszej Maryi Panny na Królową nieba i Ziemi",
+      "description": "V tajemnica chwalebna",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/d/da/Peter_Paul_Rubens_079.jpg",
+      "order": 5,
+      "set": "glorious",
+      "mdText": "Rozwazania Rozancowe"
+    }
+  ]
+}
