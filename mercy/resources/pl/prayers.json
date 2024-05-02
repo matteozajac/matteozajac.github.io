@@ -99,6 +99,19 @@
           }
         }
       ]
+    },
+    {
+      "id": "prayer_to_st_michael",
+      "name": "Modlitwa do św. Michała Archanioła",
+      "markdownText": "Święty Michale Archaniele! Wspomagaj nas w walce, a przeciw niegodziwości i zasadzkom złego ducha bądź naszą obroną. Oby go Bóg pogromić raczył, pokornie o to prosimy, a Ty, Wodzu niebieskich zastępów, szatana i inne złe duchy, które na zgubę dusz ludzkich po tym świecie krążą, mocą Bożą strąć do piekła. Amen",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/6/68/Guido_Reni_031.jpg",
+      "media": [
+        {
+          "id": "pl_prayer_to_st_michael",
+          "url": "https://matteozajac.github.io/mercy/resources/pl/audio/_prayer_to_st_michael.mp3",
+          "name": "Modlitwa do św. Michała Archanioła"
+        }
+      ]
     }
   ]
 }
