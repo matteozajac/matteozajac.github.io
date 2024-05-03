@@ -6,7 +6,7 @@
     {
       "title": "The Annunciation of the Blessed Virgin Mary",
       "description": "First joyful mystery",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Bartolomé_Esteban_Perez_Murillo_023.jpg",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/rosary/joyful_1.jpg",
       "order": 1,
       "set": "joyful",
       "mdText": "Rosary Reflections"
@@ -14,7 +14,7 @@
     {
       "title": "The Visitation of the Blessed Virgin Mary to Saint Elizabeth",
       "description": "Second joyful mystery",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/7/72/DARET_Jacques_Visitation.jpg",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/rosary/joyful_2.jpg",
       "order": 2,
       "set": "joyful",
       "mdText": "Rosary Reflections"
@@ -22,7 +22,7 @@
     {
       "title": "The Nativity of the Lord Jesus",
       "description": "Third joyful mystery",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Adoration_of_the_sheperds_-_Matthias_Stomer.jpg",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/rosary/joyful_3.jpg",
       "order": 3,
       "set": "joyful",
       "mdText": "Rosary Reflections"
@@ -30,7 +30,7 @@
     {
       "title": "The Presentation of the Lord Jesus in the Temple",
       "description": "Fourth joyful mystery",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/9/92/Hans_Holbein_d._Ä._-_Darstellung_Christi_im_Tempel_-_Hamburger_Kunsthalle.jpg",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/rosary/joyful_4.jpg",
       "order": 4,
       "set": "joyful",
       "mdText": "Rosary Reflections"
@@ -38,7 +38,7 @@
     {
       "title": "The Finding of the Lord Jesus in the Temple",
       "description": "Fifth joyful mystery",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/18/Disputa_con_los_doctores_%28El_Veronés%29_grande.jpg",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/rosary/joyful_5.jpg",
       "order": 5,
       "set": "joyful",
       "mdText": "Rosary Reflections"
@@ -46,15 +46,15 @@
     {
       "title": "The Baptism of the Lord Jesus in the Jordan",
       "description": "First luminous mystery",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/2/29/Verrocchio%2C_Leonardo_da_Vinci_-_Battesimo_di_Cristo.jpg",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/rosary/luminous_1.jpg",
       "order": 1,
       "set": "luminous",
-      "mdText": "Faith confession is not a sum of sentences, it is not just a theory. Its roots lie in the event of baptism, in the event of meeting God with man. In the mystery of baptism, God bends over us – people, meets us, and thus makes us closer to each other. In this way, he creates one big family in the universal community of the Church."
+      "mdText": "Faith confession is not a sum of sentences, it is not just a theory. Its roots lie in the event of baptism, in the event of meeting God with man. In the mystery of baptism, God bends over us \u2013 people, meets us, and thus makes us closer to each other. In this way, he creates one big family in the universal community of the Church."
     },
     {
       "title": "The Miracle at Cana",
       "description": "Second luminous mystery",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Gerard_David_-_The_Marriage_at_Cana_-_WGA6020.jpg",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/rosary/luminous_2.jpg",
       "order": 2,
       "set": "luminous",
       "mdText": "Love is possible and we can realize it because we are created in the image of God. Let us pray for each other, so that Christ may carry us on his shoulders and that we may learn to carry each other."
@@ -62,7 +62,7 @@
     {
       "title": "The Proclamation of the Kingdom of God and the Call to Conversion",
       "description": "Third luminous mystery",
-      "imageURL": "https://www.english.op.org/wp-content/uploads/2021/06/blogger-image-2012586728.jpg",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/rosary/luminous_3.jpg",
       "order": 3,
       "set": "luminous",
       "mdText": "We continually seek to implore Jesus' saving gaze: for all those who bear responsibility in the Church; for all suffering due to the turmoil of our times; for people great and small. Lord, continually envelop us with your gaze, lift us from all falls, and take us into your good hands."
@@ -70,7 +70,7 @@
     {
       "title": "The Transfiguration on Mount Tabor",
       "description": "Fourth luminous mystery",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/5/51/Transfiguration_Raphael.jpg",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/rosary/luminous_4.jpg",
       "order": 4,
       "set": "luminous",
       "mdText": "Only where God is seen does real life truly begin. We are not the random and meaningless products of evolution. Each of us is the result of a thought of God. Each of us is wanted, each is loved, each is necessary. There is nothing more beautiful than to be reached, surprised by the Gospel, by Christ."
@@ -78,7 +78,7 @@
     {
       "title": "The Institution of the Eucharist",
       "description": "Fifth luminous mystery",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Last_Supper.jpg",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/rosary/luminous_5.jpg",
       "order": 5,
       "set": "luminous",
       "mdText": "Union with Christ is at the same time union with all those to whom He gives Himself. I cannot possess Christ just for myself; I can belong to Him only together with all those who have become or will become His."
@@ -86,7 +86,7 @@
     {
       "title": "The Agony of Jesus in the Garden",
       "description": "First sorrowful mystery",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/El_Greco_019.jpg/2560px-El_Greco_019.jpg",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/rosary/sorrowful_1.jpg",
       "order": 1,
       "set": "sorrowful",
       "mdText": "Rosary Reflections"
@@ -94,7 +94,7 @@
     {
       "title": "The Scourging of Jesus",
       "description": "Second sorrowful mystery",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/4/47/Flagellation-of-christ-_Rubens.jpg",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/rosary/sorrowful_2.jpg",
       "order": 2,
       "set": "sorrowful",
       "mdText": "Rosary Reflections"
@@ -102,7 +102,7 @@
     {
       "title": "The Crowning with Thorns",
       "description": "Third sorrowful mystery",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/9/97/Christ_Carrying_the_Cross_1580.jpg",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/rosary/sorrowful_3.jpg",
       "order": 3,
       "set": "sorrowful",
       "mdText": "Rosary Reflections"
@@ -110,7 +110,7 @@
     {
       "title": "The Carrying of the Cross",
       "description": "Fourth sorrowful mystery",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/b/bd/5_Andrea_di_Bartolo._Way_to_Calvary._c._1400%2C_Thissen-Bornhemisza_coll._Madrid.jpg",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/rosary/sorrowful_4.jpg",
       "order": 4,
       "set": "sorrowful",
       "mdText": "Rosary Reflections"
@@ -118,7 +118,7 @@
     {
       "title": "The Crucifixion of Jesus",
       "description": "Fifth sorrowful mystery",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Cristo_crucificado.jpg",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/rosary/sorrowful_5.jpg",
       "order": 5,
       "set": "sorrowful",
       "mdText": "Rosary Reflections"
@@ -126,7 +126,7 @@
     {
       "title": "The Resurrection of Jesus",
       "description": "First glorious mystery",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Rafael_-_ressureicaocristo01.jpg",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/rosary/glorious_1.jpg",
       "order": 1,
       "set": "glorious",
       "mdText": "Rosary Reflections"
@@ -134,7 +134,7 @@
     {
       "title": "The Ascension of Jesus",
       "description": "Second glorious mystery",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/8/85/Jesus_ascending_to_heaven.jpg",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/rosary/glorious_2.jpg",
       "order": 2,
       "set": "glorious",
       "mdText": "Rosary Reflections"
@@ -142,7 +142,7 @@
     {
       "title": "The Descent of the Holy Spirit",
       "description": "Third glorious mystery",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Schnorr_von_Carolsfeld_Bibel_in_Bildern_1860_226.png",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/rosary/glorious_3.jpg",
       "order": 3,
       "set": "glorious",
       "mdText": "Rosary Reflections"
@@ -150,7 +150,7 @@
     {
       "title": "The Assumption of the Blessed Virgin Mary",
       "description": "Fourth glorious mystery",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Tizian_041.jpg",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/rosary/glorious_4.jpg",
       "order": 4,
       "set": "glorious",
       "mdText": "Rosary Reflections"
@@ -158,7 +158,7 @@
     {
       "title": "The Coronation of the Blessed Virgin Mary as Queen of Heaven and Earth",
       "description": "Fifth glorious mystery",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/d/da/Peter_Paul_Rubens_079.jpg",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/rosary/glorious_5.jpg",
       "order": 5,
       "set": "glorious",
       "mdText": "Rosary Reflections"
