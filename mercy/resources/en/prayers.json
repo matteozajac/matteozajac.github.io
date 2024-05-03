@@ -90,12 +90,18 @@
       "markdownText": "O my God, I am heartily sorry for having offended Thee, and I detest all my sins, because I dread the loss of heaven, and the pains of hell; but most of all because they offend Thee, my God, who art all good and deserving of all my love. I firmly resolve, with the help of Thy grace, to confess my sins, do penance, and to amend my life. Amen.",
       "imageURL": "",
       "media": [
+        {
+          "id": "en_act_of_contrition",
+          "url": "https://matteozajac.github.io/mercy/resources/en/audio/en_act_of_contrition.mp3",
+          "name": "The Act of Contrition",
+          "autor": null
+        }
       ]
     },
     {
       "id": "the_angelus",
       "name": "The Angelus",
-      "markdownText": "The Angel of the Lord declared unto Mary, And she conceived of the Holy Spirit. Hail Mary... Behold the handmaid of the Lord. Be it done unto me according to Thy word. Hail Mary... And the Word was made flesh, And dwelt among us. Hail Mary... Pray for us, O Holy Mother of God, That we may be made worthy of the promises of Christ. Let us pray: Pour forth, we beseech Thee, O Lord, Thy grace into our hearts; that, as we have known the incarnation of Christ, Thy Son by the message of an angel, so by His passion and cross we may be brought to the glory of His resurrection, through the same Christ Our Lord. Amen.",
+      "markdownText": "V/. The Angel of the Lord declared unto Mary,\\\nR/. And she conceived of the Holy Spirit.\n\nHail Mary, full of grace, the Lord is with you\\\nblessed are you among women,\\\nand blessed is the fruit of your womb, Jesus.\\\nHoly Mary, Mother of God,\\\npray for us sinner\\\nnow and at the hour of our death.\\\nAmen.\n\n\nV/. Behold the handmaid of the Lord,\\\nR/. Be it done unto me according to your Word.\\\nHail Mary…\n\nV/. And the Word was made flesh,\\\nR/. And dwelt among us.\\\nHail Mary…\n\nV/. Pray for us, O holy Mother of God,\\\nR/. That we may be made worthy of the promises of Christ.\n\n**Let us pray**. Pour forth, we beseech you, O Lord, your grace into our hearts: that we, to whom the Incarnation of Christ your Son was made known by the message of an Angel, may by his Passion and Cross be brought to the glory of his Resurrection. Through the same Christ our Lord. Amen.",
       "imageURL": "",
       "media": [
       ]
