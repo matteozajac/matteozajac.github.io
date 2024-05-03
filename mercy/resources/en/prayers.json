@@ -4,7 +4,7 @@
       "id": "sign_of_cross",
       "name": "Sign of the Cross",
       "markdownText": "In the name of the Father, and of the Son, and of the Holy Spirit. Amen.",
-      "imageURL": "",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/sign_of_cross.jpg",
       "media": [
         {
           "id": "en_sign_of_cross",
@@ -18,7 +18,7 @@
       "id": "our_father",
       "name": "The Lord's Prayer (Our Father)",
       "markdownText": "Our Father, who art in heaven, hallowed be Thy name; Thy kingdom come; Thy will be done on earth as it is in heaven. Give us this day our daily bread; and forgive us our trespasses as we forgive those who trespass against us; and lead us not into temptation, but deliver us from evil. Amen.",
-      "imageURL": "",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/our_father.jpg",
       "media": [
         {
           "id": "en_our_father",
