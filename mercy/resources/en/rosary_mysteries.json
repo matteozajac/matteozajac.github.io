@@ -4,20 +4,20 @@
   "mdText": "Pope Benedict XVI on the mysteries of the rosary",
   "rosaryMysteries": [
     {
-      "title": "The Annunciation of the Blessed Virgin Mary",
+      "title": "The Annunciation",
       "description": "First joyful mystery",
       "imageURL": "https://matteozajac.github.io/mercy/resources/image/rosary/joyful_1.jpg",
       "order": 1,
       "set": "joyful",
-      "mdText": "Rosary Reflections"
+      "mdText": "*“In the sixth month, the angel Gabriel was sent by God to a town of Galilee called Nazareth, to a virgin betrothed to a man named Joseph, of the house of David; and the virgin’s name was Mary.”*  \n(Luke 1:26-27)\n\n*“Mary was full of grace with regard to the overflow of the grace of the soul into the body… and with regard to the overflow of this grace on all men. It is a great thing for a saint to have enough grace for his own salvation, even greater for him to have enough for the salvation of many; but the supreme greatness is to have so much that it suffices for all men: and this was the case with Christ and with the Blessed Virgin Mary.”*  \n(Saint Thomas Aquinas, 1224-1274)\n\n*“O Mary, temple of the Trinity, bearer of fire, dispenser of mercy, Mary, who made the divine fruit sprout!... You are the new tree who bore the fragrant flower of the Word, the only Son of God. In you, O rich soil, the Word was planted. You are both soil and tree. O Mary, blessed among all women, you gave us bread from your flour: divinity was so strongly united and kneaded together with humanity that nothing to come, neither death nor our ingratitude, could break the union.”*  \n(Saint Catherine of Sienna, 1347-1380)\n\n**Our Lady of the Rosary,**  \n**teach us to do God’s will in everything.**  \n"
     },
     {
-      "title": "The Visitation of the Blessed Virgin Mary to Saint Elizabeth",
+      "title": "The Visitation",
       "description": "Second joyful mystery",
       "imageURL": "https://matteozajac.github.io/mercy/resources/image/rosary/joyful_2.jpg",
       "order": 2,
       "set": "joyful",
-      "mdText": "Rosary Reflections"
+      "mdText": "*When Elizabeth heard Mary’s greeting, the child in her womb leapt for joy.*  \n(Luke 1:41)\n\n*John received the grace to be a prophet when, by his leaping for joy in the womb of Elizabeth, he knew that God was before him. When the holy Virgin greeted Elizabeth, Jesus Christ anointed John as prophet according to these words of John Chrysostom: ‘Jesus Christ had Elizabeth be greeted by Mary so that his word, coming forth from his mother’s womb, the dwelling place of the Lord, and received through Elizabeth’s hearing, would descend to John, who would thus be anointed prophet.’*  \n(Blessed Jacobus de Voragine, c. 1228-1298)\n\n*By speaking of Elizabeth to Mary, the angel Gabriel suggested to her the thought of visiting this kinswoman to assure Elizabeth of her sympathy, perhaps to discuss with her the destiny of the two children. Enlightened from above, she hastened, prompted by charity, to go congratulate and help Elizabeth… On entering the house, Mary greeted Elizabeth with the affection of a kinswoman, the deference of a young girl for an aged woman, a smiling grace that showed that she already knew. While the child leapt for joy in Elizabeth’s womb, his mother was also filled with the Spirit of God and fully enlightened about the dignity of the Mother of the Messiah.*  \n(Father Marie-Joseph Lagrange, 1855-1938)\n\n**Our Lady of the Rosary,**  \n**teach us to make all our visits a Visitation.**"
     },
     {
       "title": "The Nativity of the Lord Jesus",
@@ -49,7 +49,7 @@
       "imageURL": "https://matteozajac.github.io/mercy/resources/image/rosary/luminous_1.jpg",
       "order": 1,
       "set": "luminous",
-      "mdText": "Faith confession is not a sum of sentences, it is not just a theory. Its roots lie in the event of baptism, in the event of meeting God with man. In the mystery of baptism, God bends over us \u2013 people, meets us, and thus makes us closer to each other. In this way, he creates one big family in the universal community of the Church."
+      "mdText": "Faith confession is not a sum of sentences, it is not just a theory. Its roots lie in the event of baptism, in the event of meeting God with man. In the mystery of baptism, God bends over us – people, meets us, and thus makes us closer to each other. In this way, he creates one big family in the universal community of the Church."
     },
     {
       "title": "The Miracle at Cana",
