@@ -1,6 +1,20 @@
 {
   "prayers": [
     {
+      "id": "one_decade_of_the_rosary",
+      "name": "Dziesiątka Różańca",
+      "markdownText": "Ojcze nasz \n 10 x Zdrowaś Maryjo",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/one_decade_of_the_rosary.jpg",
+      "media": [
+        {
+          "id": "pl_one_decade_of_the_rosary",
+          "url": "https://matteozajac.github.io/mercy/resources/pl/audio/pl_one_decade_of_the_rosary.mp3",
+          "name": "Dziesiątka Różańca",
+          "autor": null
+        }
+      ]
+    },
+    {
       "id": "our_father",
       "name": "Ojcze nasz",
       "markdownText": "Ojcze nasz, któryś jest w niebie, \n święć się imię Twoje; \n przyjdź królestwo Twoje; \n bądź wola Twoja jako w niebie tak i na ziemi. \n Chleba naszego powszedniego daj nam dzisiaj; \n i odpuść nam nasze winy, jako i my odpuszczamy naszym winowajcom; \n i nie wódź nas na pokuszenie, \n ale nas zbaw ode złego. Amen.",
