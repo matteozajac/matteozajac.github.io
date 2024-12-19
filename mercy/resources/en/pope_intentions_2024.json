@@ -71,6 +71,78 @@
             "month": 12,
             "title": "For pilgrims of hope",
             "description": "We pray that this Jubilee Year strengthen our faith, helping us to recognize the Risen Christ in our daily lives, and that it may transform us into pilgrims of Christian hope."
+        },
+        {
+            "year": 2025,
+            "month": 1,
+            "title": "For the right to an education",
+            "description": "Let us pray for migrants, refugees, and those affected by war, that their right to an education, which is necessary to build a better world, might always be respected."
+        },
+        {
+            "year": 2025,
+            "month": 2,
+            "title": "For vocations to the priesthood and religious life",
+            "description": "Let us pray that the ecclesial community might welcome the desires and doubts of those young people who feel a call to serve Christ's mission in the priesthood and religious life."
+        },
+        {
+            "year": 2025,
+            "month": 3,
+            "title": "For families in crisis",
+            "description": "Let us pray that broken families might discover the cure for their wounds through forgiveness, rediscovering each other's gifts, even in their differences."
+        },
+        {
+            "year": 2025,
+            "month": 4,
+            "title": "For the use of the new technologies",
+            "description": "Let us pray that the use of the new technologies will not replace human relationships, will respect the dignity of the person, and will help us face the crises of our times."
+        },
+        {
+            "year": 2025,
+            "month": 5,
+            "title": "For working conditions",
+            "description": "Let us pray that through work, each person might find fulfilment, families might be sustained in dignity, and that society might be humanized."
+        },
+        {
+            "year": 2025,
+            "month": 6,
+            "title": "That the world might grow in compassion",
+            "description": "Let us pray that each one of us might find consolation in a personal relationship with Jesus, and from his Heart, learn to have compassion on the world."
+        },
+        {
+            "year": 2025,
+            "month": 7,
+            "title": "For formation in discernment",
+            "description": "Let us pray that we might again learn how to discern, to know how to choose paths of life, and reject everything that leads us away from Christ and the Gospel."
+        },
+        {
+            "year": 2025,
+            "month": 8,
+            "title": "For mutual coexistence",
+            "description": "Let us pray that societies where coexistence seems more difficult might not succumb to the temptation of confrontation for ethnic, political, religious, or ideological reasons."
+        },
+        {
+            "year": 2025,
+            "month": 9,
+            "title": "For our relationship with all of creation",
+            "description": "Let us pray that, inspired by Saint Francis, we might experience our interdependence with all creatures who are loved by God and worthy of love and respect."
+        },
+        {
+            "year": 2025,
+            "month": 10,
+            "title": "For collaboration between different religious traditions",
+            "description": "Let us pray that believers in different religious traditions might work together to defend and promote peace, justice, and human fraternity."
+        },
+        {
+            "year": 2025,
+            "month": 11,
+            "title": "For the prevention of suicide",
+            "description": "Let us pray that those who are struggling with suicidal thoughts might find the support, care, and love they need in their community, and be open to the beauty of life."
+        },
+        {
+            "year": 2025,
+            "month": 12,
+            "title": "For Christians in areas of conflict",
+            "description": "Let us pray that Christians living in areas of war or conflict, especially in the Middle East, might be seeds of peace, reconciliation, and hope."
         }
     ]
 }
