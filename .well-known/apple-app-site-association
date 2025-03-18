@@ -1,10 +1,11 @@
 {
-  "applinks": {
-    "details" : [
-      {
-        "appID": "4TCJLR98Y5.com.matteozajac.ourwedding",
-        "paths": ["*"]
-      }
-    ]
-  }
+	"applinks": {
+		"details": [{
+			"appID": "4TCJLR98Y5.com.matteozajac.prayerbook",
+			"components": [{
+				"/": "/prayers/*",
+				"comment": "Matches prayer detail pages"
+			}]
+		}]
+	}
 }
