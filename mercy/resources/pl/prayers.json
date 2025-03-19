@@ -3,7 +3,12 @@
     {
       "id": "one_decade_of_the_rosary",
       "name": "Dziesiątka Różańca",
-      "alternateNames": ["One Decade of the Rosary"],
+      "alternateNames": [
+        "One Decade of the Rosary",
+        "Rosary Decade",
+        "Single Decade Prayer",
+        "Decade of Rosary"
+      ],
       "markdownText": "Ojcze nasz \n 10 x Zdrowaś Maryjo",
       "imageURL": "https://matteozajac.github.io/mercy/resources/image/one_decade_of_the_rosary.jpg",
       "media": [
@@ -18,7 +23,12 @@
     {
       "id": "our_father",
       "name": "Ojcze nasz",
-      "alternateNames": ["Our Father"],
+      "alternateNames": [
+        "Our Father",
+        "Lord's Prayer",
+        "Pater Noster",
+        "Prayer of Jesus"
+      ],
       "markdownText": "Ojcze nasz, któryś jest w niebie, \n święć się imię Twoje; \n przyjdź królestwo Twoje; \n bądź wola Twoja jako w niebie tak i na ziemi. \n Chleba naszego powszedniego daj nam dzisiaj; \n i odpuść nam nasze winy, jako i my odpuszczamy naszym winowajcom; \n i nie wódź nas na pokuszenie, \n ale nas zbaw ode złego. Amen.",
       "imageURL": "https://matteozajac.github.io/mercy/resources/image/our_father.jpg",
       "media": []
@@ -26,7 +36,12 @@
     {
       "id": "hail_mary",
       "name": "Zdrowaś Mario",
-      "alternateNames": ["Hail Mary"],
+      "alternateNames": [
+        "Hail Mary",
+        "Ave Maria",
+        "Prayer to Mary",
+        "Salutation of Mary"
+      ],
       "markdownText": "Zdrowaś Mario, łaski pełna, Pan z Tobą, \n błogosławionaś Ty między niewiastami, \n i błogosławiony owoc żywota Twojego, Jezus. \n Święta Maryjo, Matko Boża, módl się za nami grzesznymi, \n teraz i w godzinę śmierci naszej. Amen.",
       "imageURL": "https://matteozajac.github.io/mercy/resources/image/hail_mary.jpg",
       "media": []
@@ -34,7 +49,12 @@
     {
       "id": "the_divine_mercy_chaplet",
       "name": "Koronka do Miłosierdzia Bożego",
-      "alternateNames": ["The Divine Mercy Chaplet"],
+      "alternateNames": [
+        "Divine Mercy Chaplet",
+        "Chaplet of Divine Mercy",
+        "Mercy Prayer",
+        "Divine Mercy Devotion"
+      ],
       "time": "15:00",
       "markdownText": "Ojcze nasz... \n Zdrowaś Maryjo... \n Wierzę w Boga... \n\nNa dużych paciorkach odmawiamy słowa: \n „Ojcze Przedwieczny, ofiaruję Ci ciało i krew, duszę i bóstwo najdroższego Syna Twojego, a Pana naszego Jezusa Chrystusa, na zadośćuczynienie za grzechy nasze i całego świata”. \n\nNa małych paciorkach odmawiamy słowa: \n „Dla Jego bolesnej Męki miej miłosierdzie dla nas i całego świata”. \n\nNa zakończenie odmawiamy trzykrotnie słowa: \n „Święty Boże, Święty Mocny, Święty Nieśmiertelny, zmiłuj się nad nami i nad całym światem”. \n „Boże w Trójcy Jedyny, zmiłuj się nad nami i nad całym światem”. \n „Jezu, ufam Tobie”. Amen.",
       "imageURL": "https://matteozajac.github.io/mercy/resources/image/the_divine_mercy_chaplet.jpg",
@@ -50,7 +70,13 @@
     {
       "id": "litany_of_the_blessed_virgin_mary",
       "name": "Litania Loretańska",
-      "alternateNames": ["Litany of the Blessed Virgin Mary", "Loreto Litany"],
+      "alternateNames": [
+        "Litany of Blessed Virgin Mary",
+        "Loreto Litany",
+        "Litany of Mary",
+        "Marian Litany",
+        "Litany of Loreto"
+      ],
       "markdownText": "Kyrie, elejson.\nChryste, elejson.\nKyrie, elejson.\nChryste, usłysz nas.\nChryste, wysłuchaj nas.\n\nOjcze z nieba, Boże,\n zmiłuj się nad nami.\nSynu, Odkupicielu świata, Boże,\nDuchu Święty, Boże,\nŚwięta Trójco, Jedyny Boże,\n\nŚwięta Maryjo,\n módl się za nami.\nŚwięta Boża Rodzicielko,\n módl się...\nŚwięta Panno nad pannami,\nMatko Chrystusowa,\nMatko Kościoła,\nMatko łaski Bożej,\nMatko Miłosierdzia,\nMatko nieskalana,\nMatko najczystsza,\nMatko dziewicza,\nMatko nienaruszona,\nMatko najmilsza,\nMatko przedziwna,\nMatko dobrej rady,\nMatko Stworzyciela,\nMatko Zbawiciela,\nPanno roztropna,\nPanno czcigodna,\nPanno wsławiona,\nPanno można,\nPanno łaskawa,\nPanno wierna,\nZwierciadło sprawiedliwości,\nStolico mądrości,\nPrzyczyno naszej radości,\nPrzybytku Ducha Świętego,\nPrzybytku chwalebny,\nPrzybytku sławny pobożności,\nRóżo duchowna,\nWieżo Dawidowa,\nWieżo z kości słoniowej,\nDomie złoty,\nArko przymierza,\nBramo niebieska,\nGwiazdo zaranna,\nUzdrowienie chorych,\nUcieczko grzesznych,\nPocieszycielko strapionych,\nWspomożenie wiernych,\nKrólowo Aniołów,\nKrólowo Patriarchów,\nKrólowo Proroków,\nKrólowo Apostołów,\nKrólowo Męczenników,\nKrólowo Wyznawców,\nKrólowo Dziewic,\nKrólowo wszystkich Świętych,\nKrólowo bez zmazy pierworodnej poczęta,\nKrólowo wniebowzięta,\nKrólowo różańca świętego,\nKrólowo rodzin,\nKrólowo pokoju,\nKrólowo Polski,\n\nBaranku Boży, który gładzisz grzechy świata,\n przepuść nam, Panie.\nBaranku Boży, który gładzisz grzechy świata,\n wysłuchaj nas, Panie.\nBaranku Boży, który gładzisz grzechy świata,\n zmiłuj się nad nami.\n\nMódl się za nami, Święta Boża Rodzicielko.\nAbyśmy się stali godnymi obietnic Chrystusowych.\n\nMódlmy się. Panie, nasz Boże, daj nam, sługom swoim, cieszyć się trwałym zdrowiem duszy i ciała, i za wstawiennictwem Najświętszej Maryi, zawsze Dziewicy, uwolnij nas od doczesnych utrapień i obdarz wieczną radością. Przez Chrystusa, Pana naszego. Amen.\n\nPod Twoją obronę uciekamy się, Święta Boża Rodzicielko, naszymi prośbami racz nie gardzić w potrzebach naszych, ale od wszelakich złych przygód racz nas zawsze wybawiać, Panno chwalebna i błogosławiona. O Pani nasza, Orędowniczko nasza, Pośredniczko nasza, Pocieszycielko nasza. Z Synem swoim nas pojednaj, Synowi swojemu nas polecaj, swojemu Synowi nas oddawaj.",
       "imageURL": "https://cdn.medme.pl/zdjecie/12531,510,340,1/litania-loretanska.jpg",
       "media": [
@@ -68,7 +94,12 @@
     {
       "id": "the_angelus",
       "name": "Anioł Pański",
-      "alternateNames": ["The Angelus"],
+      "alternateNames": [
+        "Angelus",
+        "Angelus Prayer",
+        "Prayer of the Annunciation",
+        "Noon Prayer"
+      ],
       "time": "12:00",
       "markdownText": "Anioł Pański zwiastował Pannie Maryi\ni poczęła z Ducha Świętego.\n*Zdrowaś Maryjo…*\n    Oto ja służebnica Pańska,\n    niech mi się stanie według słowa Twego.\n    *Zdrowaś Maryjo…*\nA Słowo ciałem się stało,\ni zamieszkało między nami.\n*Zdrowaś Maryjo…*\n\n**P.** Módl się za nami, święta Boża Rodzicielko.\n**W.** Abyśmy się stali godnymi obietnic Chrystusowych.\n\n**Módlmy się:**\nBoże, przez zwiastowanie anielskie poznaliśmy wcielenie Chrystusa, Twojego Syna, prosimy Cię, wlej w nasze serca swoją łaskę, abyśmy przez Jego mękę i krzyż zostali doprowadzeni do chwały zmartwychwstania. Przez Chrystusa, Pana naszego. Amen.",
       "imageURL": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2023/08/15/2023-08-15-angelus/1692093759942.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg",
@@ -83,7 +114,12 @@
     {
       "id": "99a79c36-c25d-46f6-b33f-83a52546c9e4",
       "name": "Apel Jasnogórski",
-      "alternateNames": ["Jasna Góra Appeal"],
+      "alternateNames": [
+        "Jasna Góra Appeal",
+        "Jasna Góra Prayer",
+        "Appeal of Jasna Góra",
+        "Polish Marian Prayer"
+      ],
       "time": "21:00",
       "markdownText": "Bogurodzica, dziewica, Bogiem sławiena Maryja! U twego syna, Gospodzina, matko zwolena Maryja! Ziści nam, spuści nam. Kirielejson.\n\nTwego dziela Krzciciela, bożyce, Usłysz głosy, napełni myśli człowiecze. Słysz modlitwę, jąż nosimy, A dać raczy, jegoż prosimy, A na świecie zbożny pobyt, Po żywocie rajski przebyt. Kirielejson.\n\nMaryjo, Królowo Polski Maryjo Królowo Polski, jestem przy Tobie pamiętam, (x2) czuwam.\n\nMaryjo, Królowo Polski Maryjo Królowo Polski, jestem przy Tobie pamiętam, (x2) czuwam.\n\nMaryjo, Królowo Polski Maryjo Królowo Polski, jestem przy Tobie pamiętam, (x2) czuwam",
       "imageURL": "https://upload.wikimedia.org/wikipedia/commons/3/30/Czestochowska.jpg",
@@ -101,7 +137,12 @@
     {
       "id": "prayer_to_st_michael",
       "name": "Modlitwa do św. Michała Archanioła",
-      "alternateNames": ["Prayer to St. Michael the Archangel"],
+      "alternateNames": [
+        "Prayer to St. Michael Archangel",
+        "St. Michael Prayer",
+        "Archangel Michael Prayer",
+        "Protection Prayer"
+      ],
       "markdownText": "Święty Michale Archaniele! Wspomagaj nas w walce, a przeciw niegodziwości i zasadzkom złego ducha bądź naszą obroną. Oby go Bóg pogromić raczył, pokornie o to prosimy, a Ty, Wodzu niebieskich zastępów, szatana i inne złe duchy, które na zgubę dusz ludzkich po tym świecie krążą, mocą Bożą strąć do piekła. Amen",
       "imageURL": "https://upload.wikimedia.org/wikipedia/commons/6/68/Guido_Reni_031.jpg",
       "media": [
