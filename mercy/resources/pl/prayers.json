@@ -92,6 +92,17 @@
       ]
     },
     {
+      "id": "litany_of_the_sacred_heart_of_jesus",
+      "name": "Litania do Najświętszego Serca Pana Jezusa",
+      "alternateNames": [
+        "Litany of the Sacred Heart of Jesus",
+        "Litany to the Sacred Heart"
+      ],
+      "markdownText": "Kyrie, eleison.\nChryste, eleison.\nKyrie, eleison.\nChryste, usłysz nas.\nChryste, wysłuchaj nas.\n\nOjcze z nieba, Boże,\n zmiłuj się nad nami.\nSynu, Odkupicielu świata, Boże,\n zmiłuj się nad nami.\nDuchu Święty, Boże,\n zmiłuj się nad nami.\nŚwięta Trójco, Jedyny Boże,\n zmiłuj się nad nami.\n\nSerce Jezusa, Syna Ojca Przedwiecznego,\n zmiłuj się nad nami.\nSerce Jezusa, w łonie Matki Dziewicy przez Ducha Świętego utworzone,\n zmiłuj się nad nami.\nSerce Jezusa, ze Słowem Bożym istotowo zjednoczone,\n zmiłuj się nad nami.\nSerce Jezusa, nieskończonego majestatu,\n zmiłuj się nad nami.\nSerce Jezusa, świątynio Boga,\n zmiłuj się nad nami.\nSerce Jezusa, przybytku Najwyższego,\n zmiłuj się nad nami.\nSerce Jezusa, domie Boży i bramo niebios,\n zmiłuj się nad nami.\nSerce Jezusa, gorejące ognisko miłości,\n zmiłuj się nad nami.\nSerce Jezusa, sprawiedliwości i miłości skarbnico,\n zmiłuj się nad nami.\nSerce Jezusa, dobroci i miłości pełne,\n zmiłuj się nad nami.\nSerce Jezusa, cnót wszelkich bezdenna głębino,\n zmiłuj się nad nami.\nSerce Jezusa, wszelkiej chwały najgodniejsze,\n zmiłuj się nad nami.\nSerce Jezusa, królu i zjednoczenie serc wszystkich,\n zmiłuj się nad nami.\nSerce Jezusa, w którym są wszystkie skarby mądrości i umiejętności,\n zmiłuj się nad nami.\nSerce Jezusa, w którym mieszka cała pełnia Bóstwa,\n zmiłuj się nad nami.\nSerce Jezusa, w którym sobie Ojciec bardzo upodobał,\n zmiłuj się nad nami.\nSerce Jezusa, z którego pełni wszyscyśmy otrzymali,\n zmiłuj się nad nami.\nSerce Jezusa, odwieczne upragnienie świata,\n zmiłuj się nad nami.\nSerce Jezusa, cierpliwe i wielkiego miłosierdzia,\n zmiłuj się nad nami.\nSerce Jezusa, hojne dla wszystkich, którzy Cię wzywają,\n zmiłuj się nad nami.\nSerce Jezusa, źródło życia i świętości,\n zmiłuj się nad nami.\nSerce Jezusa, przebłaganie za grzechy nasze,\n zmiłuj się nad nami.\nSerce Jezusa, zelżywością napełnione,\n zmiłuj się nad nami.\nSerce Jezusa, dla nieprawości naszych starte,\n zmiłuj się nad nami.\nSerce Jezusa, aż do śmierci posłuszne,\n zmiłuj się nad nami.\nSerce Jezusa, włócznią przebite,\n zmiłuj się nad nami.\nSerce Jezusa, źródło wszelkiej pociechy,\n zmiłuj się nad nami.\nSerce Jezusa, życie i zmartwychwstanie nasze,\n zmiłuj się nad nami.\nSerce Jezusa, pokoju i pojednanie nasze,\n zmiłuj się nad nami.\nSerce Jezusa, krwawa ofiaro grzeszników,\n zmiłuj się nad nami.\nSerce Jezusa, zbawienie ufających Tobie,\n zmiłuj się nad nami.\nSerce Jezusa, nadziejo w Tobie umierających,\n zmiłuj się nad nami.\nSerce Jezusa, rozkoszy wszystkich Świętych,\n zmiłuj się nad nami.\n\nBaranku Boży, który gładzisz grzechy świata,\n przepuść nam, Panie.\nBaranku Boży, który gładzisz grzechy świata,\n wysłuchaj nas, Panie.\nBaranku Boży, który gładzisz grzechy świata,\n zmiłuj się nad nami.\n\nP. Jezu cichy i pokornego serca.\nW. Uczyń serca nasze według Serca Twego.\n\nMódlmy się. Wszechmogący, wieczny Boże, wejrzyj na Serce najmilszego Syna swego i na chwałę, i zadośćuczynienie, jakie w imieniu grzeszników Ci składa, † daj się przebłagać tym, którzy żebrzą Twojego miłosierdzia, i racz udzielić przebaczenia w imię tegoż Syna swego, Jezusa Chrystusa, który z Tobą żyje i króluje na wieki wieków. Amen.",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/8/80/Sacred_Heart_of_Jesus_07.jpg",
+      "media": []
+    },
+    {
       "id": "the_angelus",
       "name": "Anioł Pański",
       "alternateNames": [
@@ -152,6 +163,218 @@
           "name": "Modlitwa do św. Michała Archanioła"
         }
       ]
+    }
+    ,
+    {
+      "id": "sign_of_cross",
+      "name": "Znak krzyża",
+      "alternateNames": [
+        "Sign of the Cross"
+      ],
+      "markdownText": "W imię Ojca i Syna, i Ducha Świętego. Amen.",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/sign_of_cross.jpg",
+      "media": []
+    },
+    {
+      "id": "glory_be",
+      "name": "Chwała Ojcu",
+      "alternateNames": [
+        "Glory Be",
+        "Doksologia"
+      ],
+      "markdownText": "Chwała Ojcu i Synowi, i Duchowi Świętemu, jak była na początku, teraz i zawsze, i na wieki wieków. Amen.",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/glory_be.jpg",
+      "media": []
+    },
+    {
+      "id": "apostles_creed",
+      "name": "Skład Apostolski",
+      "alternateNames": [
+        "Apostles' Creed",
+        "Credo Apostolskie"
+      ],
+      "markdownText": "Wierzę w Boga, Ojca wszechmogącego, Stworzyciela nieba i ziemi. I w Jezusa Chrystusa, Syna Jego jedynego, Pana naszego, który się począł z Ducha Świętego, narodził się z Maryi Panny, umęczon pod Ponckim Piłatem, ukrzyżowan, umarł i pogrzebion; zstąpił do piekieł, trzeciego dnia zmartwychwstał; wstąpił na niebiosa, siedzi po prawicy Boga Ojca wszechmogącego; stamtąd przyjdzie sądzić żywych i umarłych. Wierzę w Ducha Świętego, święty Kościół powszechny, świętych obcowanie, grzechów odpuszczenie, ciała zmartwychwstanie, żywot wieczny. Amen.",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/apostles_creed.jpg",
+      "media": []
+    },
+    {
+      "id": "nicene_creed",
+      "name": "Wyznanie wiary nicejsko-konstantynopolitańskie",
+      "alternateNames": [
+        "Nicene Creed",
+        "Credo"
+      ],
+      "markdownText": "Wierzę w jednego Boga, Ojca wszechmogącego, Stworzyciela nieba i ziemi, wszystkich rzeczy widzialnych i niewidzialnych.\nI w jednego Pana Jezusa Chrystusa, Syna Bożego Jednorodzonego, który z Ojca jest zrodzony przed wszystkimi wiekami. Bóg z Boga, Światłość ze Światłości, Bóg prawdziwy z Boga prawdziwego. Zrodzony, a nie stworzony, współistotny Ojcu, a przez Niego wszystko się stało. On to dla nas, ludzi, i dla naszego zbawienia zstąpił z nieba. I za sprawą Ducha Świętego przyjął ciało z Maryi Dziewicy i stał się człowiekiem.\nUkrzyżowany również za nas, pod Ponckim Piłatem, został umęczony i pogrzebany. I zmartwychwstał dnia trzeciego, jak oznajmia Pismo. I wstąpił do nieba, siedzi po prawicy Ojca. I powtórnie przyjdzie w chwale sądzić żywych i umarłych, a królestwu Jego nie będzie końca.\nWierzę w Ducha Świętego, Pana i Ożywiciela, który od Ojca i Syna pochodzi. Który z Ojcem i Synem wspólnie odbiera uwielbienie i chwałę; który mówił przez proroków.\nWierzę w jeden, święty, powszechny i apostolski Kościół. Wyznaję jeden chrzest na odpuszczenie grzechów i oczekuję wskrzeszenia umarłych i życia wiecznego w przyszłym świecie. Amen.",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/nicene_creed.jpg",
+      "media": []
+    },
+    {
+      "id": "act_of_contrition",
+      "name": "Akt żalu",
+      "alternateNames": [
+        "Act of Contrition"
+      ],
+      "markdownText": "Panie Boże, żałuję z całego serca za wszystkie moje grzechy, ponieważ obraziłem Ciebie, najwyższe Dobro godne wszelkiej miłości. Mocno postanawiam z Twoją łaską poprawę życia, unikać okazji do grzechu i naprawić wyrządzone zło. Przez zasługi Jezusa Chrystusa, przebacz mi, Panie. Amen.",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/act_of_contrition.jpg",
+      "media": []
+    },
+    {
+      "id": "guardian_angel_prayer",
+      "name": "Aniele Boży, Stróżu mój",
+      "alternateNames": [
+        "Guardian Angel Prayer",
+        "Anioł Stróż"
+      ],
+      "markdownText": "Aniele Boży, Stróżu mój, Ty zawsze przy mnie stój. Rano, wieczór, we dnie, w nocy, bądź mi zawsze ku pomocy. Strzeż duszy, ciała mego i zaprowadź mnie do żywota wiecznego. Amen.",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/guardian_angel_prayer.jpg",
+      "media": []
+    },
+    {
+      "id": "morning_offering",
+      "name": "Ofiarowanie poranne",
+      "alternateNames": [
+        "Morning Offering"
+      ],
+      "markdownText": "O Jezu, przez Niepokalane Serce Maryi, ofiaruję Ci moje modlitwy, prace, radości i cierpienia dnia dzisiejszego, we wszystkich intencjach Twojego Najświętszego Serca, w łączności z Najświętszą Ofiarą Mszy świętej na całym świecie, w zadośćuczynieniu za grzechy, za zbawienie dusz i w intencjach Ojca Świętego. Amen.",
+      "imageURL": "",
+      "media": []
+    },
+    {
+      "id": "prayer_for_the_dead",
+      "name": "Modlitwa za zmarłych (Wieczny odpoczynek)",
+      "alternateNames": [
+        "Prayer for the Dead",
+        "Wieczny odpoczynek"
+      ],
+      "markdownText": "Wieczny odpoczynek racz im dać, Panie, a światłość wiekuista niechaj im świeci. Niech odpoczywają w pokoju. Amen.",
+      "imageURL": "",
+      "media": []
+    },
+    {
+      "id": "grace_before_meals",
+      "name": "Modlitwa przed posiłkiem",
+      "alternateNames": [
+        "Grace Before Meals"
+      ],
+      "markdownText": "Pobłogosław, Panie, nas i te dary, które z Twojej dobroci spożywać mamy. Przez Chrystusa, Pana naszego. Amen.",
+      "imageURL": "",
+      "media": []
+    },
+    {
+      "id": "grace_after_meals",
+      "name": "Modlitwa po posiłku",
+      "alternateNames": [
+        "Grace After Meals"
+      ],
+      "markdownText": "Dziękujemy Ci, Boże, za wszystkie Twoje dobrodziejstwa, który żyjesz i królujesz na wieki wieków. Amen. A dusze wiernych zmarłych przez miłosierdzie Boże niech odpoczywają w pokoju. Amen.",
+      "imageURL": "",
+      "media": []
+    },
+    {
+      "id": "prayer_to_the_holy_spirit",
+      "name": "Modlitwa do Ducha Świętego",
+      "alternateNames": [
+        "Prayer to the Holy Spirit",
+        "Przybądź, Duchu Święty"
+      ],
+      "markdownText": "Przybądź, Duchu Święty, napełnij serca Twoich wiernych i zapal w nich ogień swojej miłości. Ześlij Ducha Twego, a powstanie życie. I odnowisz oblicze ziemi.\n\nMódlmy się: Boże, któryś pouczył serca wiernych światłem Ducha Świętego, daj nam w tymże Duchu poznać, co jest prawe, i Jego pociechą zawsze się radować. Przez Chrystusa, Pana naszego. Amen.",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/prayer_to_the_holy_spirit.jpg",
+      "media": []
+    },
+    {
+      "id": "the_stations_of_the_cross",
+      "name": "Droga Krzyżowa",
+      "alternateNames": [
+        "Stations of the Cross"
+      ],
+      "markdownText": "Stacja I: Jezus skazany na śmierć\nStacja II: Jezus bierze krzyż na swoje ramiona\nStacja III: Jezus upada po raz pierwszy\nStacja IV: Jezus spotyka swoją Matkę\nStacja V: Szymon z Cyreny pomaga nieść krzyż Jezusowi\nStacja VI: Weronika ociera twarz Jezusa\nStacja VII: Jezus upada po raz drugi\nStacja VIII: Jezus spotyka płaczące niewiasty\nStacja IX: Jezus upada po raz trzeci\nStacja X: Jezus z szat obnażony\nStacja XI: Jezus przybity do krzyża\nStacja XII: Jezus umiera na krzyżu\nStacja XIII: Jezus zdjęty z krzyża\nStacja XIV: Jezus złożony do grobu",
+      "imageURL": "",
+      "media": []
+    },
+    {
+      "id": "memorare",
+      "name": "Pomnij, o Najświętsza Panno Maryjo",
+      "alternateNames": [
+        "Memorare"
+      ],
+      "markdownText": "Pomnij, o Najświętsza Panno Maryjo, że nigdy nie słyszano, aby ktokolwiek, kto się do Ciebie ucieka, Twojej pomocy wzywa i Ciebie o przyczynę prosi, został przez Ciebie opuszczony. Tą ufnością ożywiony, do Ciebie, o Panno nad pannami, Matko, biegnę, do Ciebie przychodzę, przed Tobą jako grzesznik płaczący staję. O Matko Słowa, racz nie gardzić moimi słowami, ale usłysz je łaskawie i wysłuchaj. Amen.",
+      "imageURL": "",
+      "media": []
+    },
+    {
+      "id": "act_of_faith",
+      "name": "Akt wiary",
+      "alternateNames": [
+        "Act of Faith"
+      ],
+      "markdownText": "Boże mój, wierzę mocno w wszystko, co objawiłeś, a co Kościół Twój święty do wierzenia podaje, bo Ty, który jesteś samą Prawdą, objawiłeś to. W tej wierze pragnę żyć i umierać. Amen.",
+      "imageURL": "",
+      "media": []
+    },
+    {
+      "id": "act_of_hope",
+      "name": "Akt nadziei",
+      "alternateNames": [
+        "Act of Hope"
+      ],
+      "markdownText": "Boże mój, ufam mocno, że przez zasługi Pana naszego Jezusa Chrystusa dasz mi nie tylko przebaczenie grzechów, ale i łaskę do dobrego życia oraz życie wieczne, ponieważ obiecałeś to, który jesteś wierny w obietnicach. W tej nadziei pragnę żyć i umierać. Amen.",
+      "imageURL": "",
+      "media": []
+    },
+    {
+      "id": "act_of_love",
+      "name": "Akt miłości",
+      "alternateNames": [
+        "Act of Love",
+        "Akt miłości Boga"
+      ],
+      "markdownText": "Boże mój, miłuję Cię nade wszystko, całym sercem, ponieważ jesteś najwyższym Dobrem i godzien wszelkiej miłości. Dla miłości Twojej miłuję bliźniego jak siebie samego. W tej miłości pragnę żyć i umierać. Amen.",
+      "imageURL": "",
+      "media": []
+    },
+    {
+      "id": "hail_holy_queen",
+      "name": "Witaj, Królowo",
+      "alternateNames": [
+        "Salve Regina",
+        "Hail, Holy Queen"
+      ],
+      "markdownText": "Witaj, Królowo, Matko miłosierdzia, życie, słodyczy i nadziejo nasza, witaj! Do Ciebie wołamy, wygnańcy, synowie Ewy; do Ciebie wzdychamy, jęcząc i płacząc na tym łez padole.\n\nPrzeto, Orędowniczko nasza, one miłosierne oczy Twoje na nas zwróć, a Jezusa, błogosławiony owoc żywota Twojego, po tym wygnaniu nam okaż. O łaskawa, o litościwa, o słodka Panno Maryjo!",
+      "imageURL": "",
+      "media": []
+    },
+    {
+      "id": "under_thy_protection",
+      "name": "Pod Twoją obronę",
+      "alternateNames": [
+        "Under Thy Protection",
+        "Sub Tuum Praesidium"
+      ],
+      "markdownText": "Pod Twoją obronę uciekamy się, Święta Boża Rodzicielko, naszymi prośbami racz nie gardzić w potrzebach naszych, ale od wszelakich złych przygód racz nas zawsze wybawiać, Panno chwalebna i błogosławiona. O Pani nasza, Orędowniczko nasza, Pośredniczko nasza, Pocieszycielko nasza. Z Synem swoim nas pojednaj, Synowi swojemu nas polecaj, swojemu Synowi nas oddawaj.",
+      "imageURL": "",
+      "media": []
+    },
+    {
+      "id": "fatima_prayer",
+      "name": "Modlitwa fatimska",
+      "alternateNames": [
+        "Fatima Prayer",
+        "O mój Jezu"
+      ],
+      "markdownText": "O mój Jezu, przebacz nam nasze grzechy, zachowaj nas od ognia piekielnego, zaprowadź wszystkie dusze do nieba i dopomóż szczególnie tym, którzy najbardziej potrzebują Twojego miłosierdzia. Amen.",
+      "imageURL": "",
+      "media": []
+    },
+    {
+      "id": "come_holy_spirit_hymn",
+      "name": "O Stworzycielu, Duchu, przyjdź",
+      "alternateNames": [
+        "Veni Creator Spiritus",
+        "Hymn do Ducha Świętego"
+      ],
+      "markdownText": "O Stworzycielu, Duchu, przyjdź,\nNawiedź dusz wiernych Tobie krąg;\nNiebieską łaskę zesłać racz\nSercom, co dziełem są Twych rąk.\n\nPocieszycielem jesteś zwan\nI Najwyższego dar masz zwan;\nTyś namaszczeniem naszych dusz,\nZdrój żywy, miłość, ognia żar.\n\nTy darzysz łaską siedemkroć,\nBo moc z prawicy Ojca masz;\nPrzez Ojca obiecany nam,\nMową wzbogacasz język nasz.\n\nŚwiatłem rozjaśnij naszą myśl,\nW serca nam miłość świętą wlej;\nI w słabości ciała wzmacniaj moc\nStałym udzielaj męstwa Twej.\n\nNieprzyjaciela odpędź w dal\nI pokój rychło daj nam swój;\nNiech w drodze za przewodem Twym\nMiniemy zło, co kusi złe.\n\nDaj nam przez Ciebie Ojca znać,\nDaj, by i Syn poznany był;\nI Ciebie, jedno Tchnienie Dwóch,\nNiech wyznajemy z wszystkich sił. Amen.",
+      "imageURL": "",
+      "media": []
     }
   ]
 }
