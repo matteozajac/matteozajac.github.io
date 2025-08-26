@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Genius IQ - Brain Training Tests</title>
     <meta name="description" content="Premium IQ test preparation app with six puzzle types. Train with Number Sequences, Mirror Images, Verbal Analogies, Equations, Emoji Puzzles, and Roman Numerals. Boost your cognitive skills.">
+    <link rel="stylesheet" href="styles.css">
     
     <style>
         * {
@@ -1150,7 +1151,7 @@
                     <a href="#" class="btn btn-ghost">See reflections →</a>
                 </div>
                 <div class="showcase-visual">
-                    <img src="symmetry.png" alt="Mirror Images" class="showcase-image">
+                    <img src="images/symmetry.png" alt="Mirror Images" class="showcase-image">
                 </div>
             </div>
         </div>
@@ -1164,7 +1165,7 @@
                     <a href="#" class="btn btn-ghost">Discover words →</a>
                 </div>
                 <div class="showcase-visual">
-                    <img src="verbal.png" alt="Verbal Analogies" class="showcase-image">
+                    <img src="images/verbal.png" alt="Verbal Analogies" class="showcase-image">
                 </div>
             </div>
         </div>
@@ -1178,7 +1179,7 @@
                     <a href="#" class="btn btn-ghost">Calculate solutions →</a>
                 </div>
                 <div class="showcase-visual">
-                    <img src="equation.png" alt="Equations" class="showcase-image">
+                    <img src="images/equation.png" alt="Equations" class="showcase-image">
                 </div>
             </div>
         </div>
@@ -1192,7 +1193,7 @@
                     <a href="#" class="btn btn-ghost">Find differences →</a>
                 </div>
                 <div class="showcase-visual">
-                    <img src="emoji.png" alt="Emoji Odd One Out" class="showcase-image">
+                    <img src="images/emoji.png" alt="Emoji Odd One Out" class="showcase-image">
                 </div>
             </div>
         </div>
@@ -1206,7 +1207,7 @@
                     <a href="#" class="btn btn-ghost">Ancient wisdom →</a>
                 </div>
                 <div class="showcase-visual">
-                    <img src="roman.png" alt="Roman Numerals" class="showcase-image">
+                    <img src="images/roman.png" alt="Roman Numerals" class="showcase-image">
                 </div>
             </div>
         </div>
@@ -1286,8 +1287,8 @@
     <footer>
         <div class="footer-content">
             <div class="footer-links">
-                <a href="#privacy" onclick="document.getElementById('privacy').style.display='block'; document.getElementById('privacy').style.opacity='1'; document.getElementById('privacy').style.visibility='visible'; return false;">Privacy Policy</a>
-                <a href="#terms" onclick="document.getElementById('terms').style.display='block'; document.getElementById('terms').style.opacity='1'; document.getElementById('terms').style.visibility='visible'; return false;">Terms of Use</a>
+                <a href="privacy.html">Privacy Policy</a>
+                <a href="terms.html">Terms of Use</a>
                 <a href="mailto:matteo.zajac@gmail.com">Support</a>
             </div>
             <div class="footer-copyright">
@@ -1296,113 +1297,7 @@
         </div>
     </footer>
 
-    <!-- Privacy Policy Modal -->
-    <div id="privacy" class="legal-modal">
-        <div class="legal-content">
-            <button class="close-btn" onclick="this.parentElement.parentElement.style.display='none'; this.parentElement.parentElement.style.opacity='0'; this.parentElement.parentElement.style.visibility='hidden'; window.location.hash=''; return false;">&times;</button>
-            <h2>Privacy Policy</h2>
-            <p class="legal-date">Last updated: January 2025</p>
-            
-            <h3>1. Information We Collect</h3>
-            <p>Genius IQ collects minimal information necessary to provide our services:</p>
-            <ul>
-                <li>Game Center data for leaderboards and achievements</li>
-                <li>Anonymous usage analytics to improve the app</li>
-                <li>Performance metrics and crash reports</li>
-            </ul>
-            
-            <h3>2. How We Use Your Information</h3>
-            <p>We use collected information solely to:</p>
-            <ul>
-                <li>Provide and maintain the Genius IQ service</li>
-                <li>Track your progress and achievements</li>
-                <li>Improve app performance and user experience</li>
-                <li>Fix bugs and technical issues</li>
-            </ul>
-            
-            <h3>3. Data Storage</h3>
-            <p>All data is stored locally on your device. Game Center data is managed by Apple according to their privacy policy. We do not maintain external servers or databases with your personal information.</p>
-            
-            <h3>4. Data Sharing</h3>
-            <p>We do not sell, trade, or otherwise transfer your personal information to third parties. Game Center information is shared according to your Game Center privacy settings.</p>
-            
-            <h3>5. Children's Privacy</h3>
-            <p>Genius IQ is suitable for users aged 4+. We do not knowingly collect personal information from children. All data collection is handled through Apple's frameworks which comply with COPPA requirements.</p>
-            
-            <h3>6. Your Rights</h3>
-            <p>You can:</p>
-            <ul>
-                <li>Delete all app data by uninstalling Genius IQ</li>
-                <li>Disable Game Center integration in your device settings</li>
-                <li>Opt out of analytics in the app settings</li>
-            </ul>
-            
-            <h3>7. Changes to This Policy</h3>
-            <p>We may update this Privacy Policy from time to time. Updates will be reflected in the app and on this page.</p>
-            
-            <h3>8. Contact Us</h3>
-            <p>For questions about this Privacy Policy, contact us at: <a href="mailto:matteo.zajac@gmail.com">matteo.zajac@gmail.com</a></p>
-        </div>
-    </div>
-
-    <!-- Terms of Use Modal -->
-    <div id="terms" class="legal-modal">
-        <div class="legal-content">
-            <button class="close-btn" onclick="this.parentElement.parentElement.style.display='none'; this.parentElement.parentElement.style.opacity='0'; this.parentElement.parentElement.style.visibility='hidden'; window.location.hash=''; return false;">&times;</button>
-            <h2>Terms of Use</h2>
-            <p class="legal-date">Last updated: January 2025</p>
-            
-            <h3>1. Acceptance of Terms</h3>
-            <p>By downloading and using Genius IQ, you agree to these Terms of Use. If you do not agree, please do not use the app.</p>
-            
-            <h3>2. License</h3>
-            <p>Genius IQ grants you a limited, non-exclusive, non-transferable license to use the app on your iOS devices. This license is for personal, non-commercial use only.</p>
-            
-            <h3>3. Purchase and Payment</h3>
-            <ul>
-                <li>Genius IQ offers flexible subscription plans: Monthly ($0.99), Annual ($9.99), and Lifetime ($19.99)</li>
-                <li>All purchases are processed through the Apple App Store</li>
-                <li>Refunds are handled according to Apple's refund policy</li>
-                <li>Subscriptions auto-renew unless cancelled 24 hours before renewal</li>
-            </ul>
-            
-            <h3>4. Intellectual Property</h3>
-            <p>All content, features, and functionality of Genius IQ are owned by Genius IQ and are protected by international copyright, trademark, and other intellectual property laws.</p>
-            
-            <h3>5. User Conduct</h3>
-            <p>You agree not to:</p>
-            <ul>
-                <li>Modify, reverse engineer, or decompile the app</li>
-                <li>Use the app for any illegal or unauthorized purpose</li>
-                <li>Attempt to gain unauthorized access to any portion of the app</li>
-                <li>Use cheats, exploits, or unauthorized software</li>
-            </ul>
-            
-            <h3>6. Game Center</h3>
-            <p>Use of Game Center features is subject to Apple's Game Center terms of service. You are responsible for your Game Center account and activities.</p>
-            
-            <h3>7. Disclaimer of Warranties</h3>
-            <p>Genius IQ is provided "as is" without warranties of any kind. We do not guarantee that the app will be error-free or uninterrupted.</p>
-            
-            <h3>8. Limitation of Liability</h3>
-            <p>Genius IQ shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use or inability to use the app.</p>
-            
-            <h3>9. Updates and Changes</h3>
-            <p>We reserve the right to:</p>
-            <ul>
-                <li>Update the app with new features and improvements</li>
-                <li>Modify these Terms of Use at any time</li>
-                <li>Discontinue the app with reasonable notice</li>
-            </ul>
-            
-            <h3>10. Governing Law</h3>
-            <p>These Terms shall be governed by the laws of the United States and the State of California, without regard to conflict of law provisions.</p>
-            
-            <h3>11. Contact Information</h3>
-            <p>For questions about these Terms of Use, contact us at: <a href="mailto:matteo.zajac@gmail.com">matteo.zajac@gmail.com</a></p>
-        </div>
-    </div>
-
+    <!-- Legal modals removed - now on separate pages -->
     <script>
         // Remove loader when page loads
         window.addEventListener('load', () => {
@@ -1411,39 +1306,7 @@
             }, 500);
         });
 
-        // Handle legal modal display
-        function showModal(modalId) {
-            const modal = document.getElementById(modalId);
-            if (modal) {
-                modal.style.opacity = '1';
-                modal.style.visibility = 'visible';
-            }
-        }
-
-        function hideModals() {
-            document.querySelectorAll('.legal-modal').forEach(modal => {
-                modal.style.opacity = '0';
-                modal.style.visibility = 'hidden';
-            });
-        }
-
-        // Handle hash changes for modals
-        window.addEventListener('hashchange', () => {
-            const hash = window.location.hash.slice(1);
-            if (hash === 'privacy' || hash === 'terms') {
-                showModal(hash);
-            } else {
-                hideModals();
-            }
-        });
-
-        // Check initial hash on page load
-        window.addEventListener('DOMContentLoaded', () => {
-            const hash = window.location.hash.slice(1);
-            if (hash === 'privacy' || hash === 'terms') {
-                showModal(hash);
-            }
-        });
+        // Legal modals removed - now on separate pages
 
         // Navigation scroll effect
         const nav = document.querySelector('.nav');
