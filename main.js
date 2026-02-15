@@ -1,5 +1,5 @@
 /* ═══════════════════════════════════════════════
-   THE PRAGMATIC LEADER — Interactions & Animations
+   MATEUSZ ZAJĄC — Interactions & Animations
    ═══════════════════════════════════════════════ */
 
 // --- Scroll-triggered fade-in ---
@@ -42,9 +42,8 @@ const navLinks = document.querySelectorAll('.nav-link');
 
 function updateActiveNav() {
   const isHomePage = window.location.pathname === '/' || window.location.pathname === '/index.html' || window.location.pathname === '';
-  
+
   if (!isHomePage) {
-    // On other pages, we just trust the active class set in HTML or by path
     navLinks.forEach((link) => {
       const href = link.getAttribute('href');
       if (href === window.location.pathname || (href === '/sessions.html' && window.location.pathname.includes('sessions'))) {
@@ -56,7 +55,7 @@ function updateActiveNav() {
 
   const scrollPos = window.scrollY + window.innerHeight / 3;
   let activeId = '';
-  
+
   sections.forEach((id) => {
     const section = document.getElementById(id);
     if (section && section.offsetTop <= scrollPos) {
@@ -104,12 +103,4 @@ const mobileNav = document.getElementById('mobile-nav');
 mobileBtn.addEventListener('click', () => {
   mobileBtn.classList.toggle('open');
   mobileNav.classList.toggle('open');
-});
-
-// --- Memoji blink on load ---
-window.addEventListener('load', () => {
-  const memoji = document.getElementById('memoji');
-  setTimeout(() => {
-    memoji.classList.add('blink');
-  }, 800);
 });
