@@ -1,0 +1,309 @@
+/* ═══════════════════════════════════════════════
+   PROJECT DETAIL PAGE STYLES
+   Shared template CSS for all project detail pages.
+   ═══════════════════════════════════════════════ */
+
+.project-page {
+    padding-top: 120px;
+    min-height: 60vh;
+}
+
+.project-page-inner {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 0 var(--gutter);
+}
+
+/* Back link */
+.back-link {
+    display: inline-flex;
+    align-items: center;
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--accent);
+    text-decoration: none;
+    margin-bottom: 40px;
+    transition: opacity var(--transition);
+}
+
+.back-link:hover {
+    opacity: 0.7;
+}
+
+/* Hero */
+.project-hero {
+    display: flex;
+    align-items: center;
+    gap: 28px;
+    margin-bottom: 56px;
+}
+
+.project-hero-icon {
+    width: 96px;
+    height: 96px;
+    border-radius: 22px;
+    overflow: hidden;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 48px;
+    flex-shrink: 0;
+}
+
+.project-hero-icon img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.project-hero-text h1 {
+    font-size: clamp(28px, 4vw, 36px);
+    font-weight: 800;
+    letter-spacing: -0.03em;
+    line-height: 1.1;
+    margin-bottom: 6px;
+}
+
+.project-tagline {
+    font-size: 16px;
+    color: var(--text-secondary);
+    margin-bottom: 16px;
+}
+
+.appstore-badge img {
+    height: 40px;
+    transition: opacity var(--transition);
+}
+
+.appstore-badge:hover img {
+    opacity: 0.8;
+}
+
+/* Sections */
+.project-section {
+    margin-bottom: 56px;
+    padding-bottom: 56px;
+    border-bottom: 1px solid var(--border);
+}
+
+.project-section:last-child {
+    border-bottom: none;
+}
+
+.project-section h2 {
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    margin-bottom: 20px;
+}
+
+.project-section h3 {
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 28px;
+    margin-bottom: 8px;
+}
+
+.project-section p {
+    font-size: 15px;
+    color: var(--text-secondary);
+    line-height: 1.8;
+    margin-bottom: 12px;
+}
+
+.project-section a {
+    color: var(--accent);
+    text-decoration: none;
+}
+
+.project-section a:hover {
+    text-decoration: underline;
+}
+
+/* Details grid */
+.project-details-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    margin-top: 28px;
+    padding: 24px;
+    background: var(--bg-card);
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--border);
+}
+
+.detail-item {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.detail-label {
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--text-secondary);
+}
+
+.detail-value {
+    font-size: 15px;
+    font-weight: 500;
+    color: var(--text);
+}
+
+.detail-value a {
+    color: var(--accent);
+    text-decoration: none;
+}
+
+.detail-value a:hover {
+    text-decoration: underline;
+}
+
+/* Screenshots */
+.screenshots-scroll {
+    display: flex;
+    gap: 16px;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
+    padding-bottom: 8px;
+}
+
+.screenshots-scroll::-webkit-scrollbar {
+    height: 4px;
+}
+
+.screenshots-scroll::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.screenshots-scroll::-webkit-scrollbar-thumb {
+    background: var(--border);
+    border-radius: 2px;
+}
+
+.screenshot-placeholder {
+    flex: 0 0 220px;
+    height: 380px;
+    scroll-snap-align: start;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--text-secondary);
+    font-size: 14px;
+}
+
+.screenshots-scroll img {
+    flex: 0 0 220px;
+    height: 380px;
+    scroll-snap-align: start;
+    border-radius: var(--radius-lg);
+    object-fit: cover;
+}
+
+/* Legal */
+.legal-updated {
+    font-size: 13px;
+    color: var(--text-secondary);
+    font-style: italic;
+    margin-bottom: 20px;
+}
+
+/* FAQ Accordion */
+.faq-item {
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    margin-bottom: 12px;
+    overflow: hidden;
+}
+
+.faq-item summary {
+    padding: 16px 20px;
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    transition: background var(--transition);
+}
+
+.faq-item summary::-webkit-details-marker {
+    display: none;
+}
+
+.faq-item summary::after {
+    content: "+";
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--text-secondary);
+    transition: transform var(--transition);
+}
+
+.faq-item[open] summary::after {
+    transform: rotate(45deg);
+}
+
+.faq-item summary:hover {
+    background: var(--bg-card);
+}
+
+.faq-item p {
+    padding: 0 20px 16px;
+    font-size: 14px;
+    color: var(--text-secondary);
+    line-height: 1.7;
+}
+
+/* Projects list page */
+.projects-list-page {
+    padding-top: 120px;
+    min-height: 60vh;
+}
+
+.projects-list-inner {
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: 0 var(--gutter);
+}
+
+.projects-list-inner h1 {
+    font-size: clamp(28px, 4vw, 40px);
+    font-weight: 800;
+    letter-spacing: -0.03em;
+    margin-bottom: 48px;
+}
+
+.projects-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 24px;
+    margin-bottom: 80px;
+}
+
+/* Responsive */
+@media (max-width: 640px) {
+    .project-hero {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 20px;
+    }
+
+    .project-details-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .project-hero-icon {
+        width: 72px;
+        height: 72px;
+        border-radius: 16px;
+    }
+}

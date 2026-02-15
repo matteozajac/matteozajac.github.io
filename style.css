@@ -391,20 +391,128 @@ nav {
 }
 
 /* ═══════════════════════════════════════════════
-   4. SELECTED WORK
+   4. WHAT I DO / SELECTED PROJECTS
    ═══════════════════════════════════════════════ */
 #work {
   padding: var(--section-py) 0;
 }
 
-.work-grid {
+/* --- Occupation Block --- */
+.occupation-block {
   display: grid;
-  grid-template-columns: 1.4fr 1fr;
-  grid-template-rows: 1fr 1fr;
-  gap: 24px;
+  grid-template-columns: 1fr 1fr;
+  gap: 0;
+  background: var(--bg-card);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  border: 1px solid var(--border);
 }
 
-.work-card {
+.occupation-image {
+  overflow: hidden;
+  min-height: 280px;
+}
+
+.occupation-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.occupation-info {
+  padding: 48px 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 16px;
+}
+
+.occupation-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.occupation-header h3 {
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.occupation-info p {
+  font-size: 16px;
+  color: var(--text-secondary);
+  line-height: 1.7;
+}
+
+.occupation-location {
+  font-size: 14px;
+  color: var(--text-secondary);
+  margin-top: 8px;
+}
+
+/* --- Selected Projects --- */
+#projects {
+  padding: var(--section-py) 0;
+}
+
+.section-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}
+
+.section-header .section-label {
+  margin-bottom: 0;
+}
+
+.see-all-link {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--accent);
+  text-decoration: none;
+  transition: opacity var(--transition);
+}
+
+.see-all-link:hover {
+  opacity: 0.7;
+}
+
+.see-all-link .arrow {
+  display: inline-block;
+  transition: transform var(--transition);
+}
+
+.see-all-link:hover .arrow {
+  transform: translateX(4px);
+}
+
+.projects-scroll {
+  display: flex;
+  gap: 24px;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  padding-bottom: 8px;
+}
+
+.projects-scroll::-webkit-scrollbar {
+  height: 4px;
+}
+
+.projects-scroll::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.projects-scroll::-webkit-scrollbar-thumb {
+  background: var(--border);
+  border-radius: 2px;
+}
+
+.project-card {
+  flex: 0 0 320px;
+  scroll-snap-align: start;
   display: flex;
   flex-direction: column;
   background: var(--bg-card);
@@ -413,47 +521,47 @@ nav {
   border: 1px solid var(--border);
   transition: transform var(--transition), box-shadow var(--transition);
   cursor: pointer;
+  text-decoration: none;
+  color: inherit;
 }
 
-.work-card:hover {
+.project-card:hover {
   transform: translateY(-6px);
   box-shadow: 0 20px 60px rgba(0, 0, 0, 0.08);
 }
 
-.work-card--large {
-  grid-row: 1 / 3;
-}
-
-.work-card__image {
-  flex: 1;
+.project-card__image {
+  height: 200px;
   overflow: hidden;
   background: #1a1a1a;
-  min-height: 200px;
 }
 
-.work-card__image img {
+.project-card__image img {
   width: 100%;
   height: 100%;
   object-fit: cover;
   transition: transform 0.6s ease;
 }
 
-.work-card:hover .work-card__image img {
+.project-card:hover .project-card__image img {
   transform: scale(1.04);
 }
 
-.work-card__info {
-  padding: 28px;
+.project-card__info {
+  padding: 24px;
 }
 
-.work-card__info h3 {
+.project-card__info h3 {
   font-size: 18px;
   font-weight: 700;
   letter-spacing: -0.02em;
   margin-bottom: 8px;
-  display: flex;
-  align-items: center;
-  gap: 10px;
+}
+
+.project-card__info p {
+  font-size: 14px;
+  color: var(--text-secondary);
+  line-height: 1.6;
 }
 
 .tag {
@@ -466,12 +574,6 @@ nav {
   background: rgba(0, 102, 255, 0.08);
   padding: 3px 10px;
   border-radius: 20px;
-}
-
-.work-card__info p {
-  font-size: 14px;
-  color: var(--text-secondary);
-  line-height: 1.6;
 }
 
 /* ═══════════════════════════════════════════════
@@ -693,13 +795,12 @@ tbody td {
     gap: 20px;
   }
 
-  .work-grid {
+  .occupation-block {
     grid-template-columns: 1fr;
-    grid-template-rows: auto;
   }
 
-  .work-card--large {
-    grid-row: auto;
+  .occupation-image {
+    min-height: 200px;
   }
 
   .me-grid {
