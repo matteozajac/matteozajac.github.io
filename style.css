@@ -406,6 +406,14 @@ nav {
   border-radius: var(--radius-lg);
   overflow: hidden;
   border: 1px solid var(--border);
+  text-decoration: none;
+  color: inherit;
+  transition: transform var(--transition), box-shadow var(--transition);
+}
+
+.occupation-block:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.08);
 }
 
 .occupation-image {
@@ -953,6 +961,14 @@ tbody td {
   font-weight: 600;
   letter-spacing: -0.02em;
   color: var(--text);
+}
+
+.session-description {
+  font-size: 14px;
+  color: var(--text-muted);
+  line-height: 1.6;
+  margin: 4px 0 2px;
+  max-width: 640px;
 }
 
 .session-meta {
