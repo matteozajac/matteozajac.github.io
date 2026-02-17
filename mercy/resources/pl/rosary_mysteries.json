@@ -1,0 +1,167 @@
+{
+  "name": "Różaniec",
+  "id": "rosary_1",
+  "mdText": "Tajemnice ze św. Janem Pawłem II",
+  "rosaryMysteries": [
+    {
+      "title": "Zwiastowanie Maryi",
+      "description": "I tajemnica radosna",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/rosary/joyful_1.jpg",
+      "order": 1,
+      "set": "joyful",
+      "mdText": "Maryja wypowiada swą pełną zgodę myślą i sercem na tajemniczą wolę Bożą i jest gotowa przyjąć, najpierw wiarą, a następnie w swym dziewiczym łonie, Syna Bożego. Oto ja!. Maryja dodaje nam otuchy, abyśmy uwierzyli w spełnienie się obietnic Bożych. Wzywa nas, abyśmy mieli w sobie ducha pokory, słuszną wewnętrzną postawę stworzenia wobec Stwórcy. Zachęca nas, abyśmy pokładali bezpieczną nadzieję w Chrystusie, który realizuje w całej pełni plan zbawczy nawet wtedy, gdy wydarzenia wydają się ciemne i trudne do przyjęcia.      "
+    },
+    {
+      "title": "Nawiedzenie św. Elżbiety",
+      "description": "II tajemnica radosna",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/rosary/joyful_2.jpg",
+      "order": 2,
+      "set": "joyful",
+      "mdText": "Spotkanie z Elżbietą ma charakter radosnego wydarzenia zbawczego, a więc nie jest tylko spontanicznym wyrazem życzliwości, jaką Maryja okazuje krewnej. Do domu Zachariasza, który stracił mowę zawstydzony własnym niedowiarstwem, Maryja wnosi niespodziewanie całą radość swojej wiary otwartej i gotowej do służby. Nawiedzając św. Elżbietę, Maryja niejako zapowiada misję Jezusa, a współdziałając od samego początku swego macierzyństwa z odkupieńczym dziełem Syna, staje się wzorem tych członków Kościoła, którzy wyruszają w drogę, aby nieść światło i radość Chrystusa ludziom wszystkich krajów i wszystkich czasów.      "
+    },
+    {
+      "title": "Narodzenie Pana Jezusa",
+      "description": "III tajemnica radosna",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/rosary/joyful_3.jpg",
+      "order": 3,
+      "set": "joyful",
+      "mdText": "Uciemiężonemu i cierpiącemu narodowi, który kroczył w ciemnościach, ukazało się wielkie światło. Jeśli pierwsze stworzenie zaczęło się od stworzenia światła, to tym bardziej jaśnieje blaskiem i jest wielkie światło, które daje początek nowemu stworzeniu: jest nim sam Bóg, który stał się człowiekiem. Wieść o narodzinach Syna Bożego pociesza, a zarazem stawia wymagania. Wiara pozwala nam odczuć, że Bóg otacza nas swoją czułą miłością, a jednocześnie zobowiązuje nas do czynnej miłości Boga i braci."
+    },
+    {
+      "title": "Ofiarowanie Pana Jezusa",
+      "description": "IV tajemnica radosna",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/rosary/joyful_4.jpg",
+      "order": 4,
+      "set": "joyful",
+      "mdText": "*Teraz, o Władco, pozwól odejść słudze Twemu w pokoju, według Twojego słowa. Bo moje oczy ujrzały Twoje zbawienie, któreś przygotował wobec wszystkich narodów: światło na oświecenie pogan i chwałę ludu Twego, Izraela.* Chrystus jest światłem ludzkiego życia. Jest światłem, bo rozprasza jego mroki. Jest światłem, bo rozjaśnia jego tajemnice. Bo odpowiada na pytania podstawowe i ostateczne zarazem. Jest światłem, bo nadaje życiu sens. Jest światłem, bo przekonuje człowieka o jego wielkiej godności."
+    },
+    {
+      "title": "Odnalezienie Pana Jezusa w Świątyni",
+      "description": "V tajemnica radosna",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/rosary/joyful_5.jpg",
+      "order": 5,
+      "set": "joyful",
+      "mdText": "Gdy po trzydniowych poszukiwaniach odnaleźli Jezusa w świątyni między nauczycielami, Maryja czyni Mu łagodny wyrzut: Synu, czemuś nam to uczynił? Zamiary Boże są często trudne do zrozumienia, wymagają zgody, wiary i pokory. Maryja jest dla nas wzorem człowieka, który poddając się przewodnictwu Ducha Świętego, przyjmuje i zachowuje w sercu – niczym dobre ziarno – słowa objawienia, usiłuje je jak najlepiej zrozumieć, aby przeniknąć w głąb tajemnicy Chrystusa."
+    },
+    {
+      "title": "Chrzest Pana Jezusa w Jordanie",
+      "description": "I tajemnica światła",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/rosary/luminous_1.jpg",
+      "order": 1,
+      "set": "luminous",
+      "mdText": "Wyznanie wiary nie jest sumą zdań, nie jest jakąś teorią. Jego korzenie tkwią w wydarzeniu chrztu, w wydarzeniu spotkania Boga z człowiekiem. W tajemnicy chrztu Bóg pochyla się nad nami – ludźmi, wychodzi nam naprzeciw i w ten sposób sprawia, że zbliżamy się jedni do drugich. W ten sposób tworzy z nas wszystkich jedną wielką rodzinę w powszechnej wspólnocie Kościoła."
+    },
+    {
+      "title": "Cud w Kanie Galilejskiej",
+      "description": "II tajemnica światła",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/rosary/luminous_2.jpg",
+      "order": 2,
+      "set": "luminous",
+      "mdText": "Miłość jest możliwa i możemy ją realizować, bo jesteśmy stworzeni na obraz Boga. Módlmy się za siebie nawzajem, aby Chrystus niósł nas na ramionach i byśmy uczyli się nosić jedni drugich."
+    },
+    {
+      "title": "Głoszenie Królestwa Bożego i wzywanie do nawrócenia",
+      "description": "III tajemnica światła",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/rosary/luminous_3.jpg",
+      "order": 3,
+      "set": "luminous",
+      "mdText": "Pragniemy wciąż na nowo upraszać to zbawcze spojrzenie Jezusa: dla wszystkich, na których spoczywa w Kościele odpowiedzialność; dla wszystkich cierpiących z powodu zamętu panującego w naszych czasach; dla ludzi wielkich i małych. Panie, wciąż na nowo ogarniaj nas spojrzeniem, dźwigaj nas ze wszystkich upadków i bierz nas w swoje dobre ręce."
+    },
+    {
+      "title": "Przemienienie na górze Tabor",
+      "description": "IV tajemnica światła",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/rosary/luminous_4.jpg",
+      "order": 4,
+      "set": "luminous",
+      "mdText": "Tylko tam, gdzie widać Boga, naprawdę zaczyna się życie. Nie jesteśmy przypadkowym i pozbawionym sensu wytworem ewolucji. Każdy z nas jest owocem myśli Bożej. Każdy z nas jest chciany, każdy jest kochany, każdy jest niezbędny. Nie ma nic piękniejszego, niż zostać dosięgniętym, zaskoczonym przez Ewangelię, przez Chrystusa."
+    },
+    {
+      "title": "Ustanowienie Eucharystii",
+      "description": "V tajemnica światła",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/rosary/luminous_5.jpg",
+      "order": 5,
+      "set": "luminous",
+      "mdText": "Zjednoczenie z Chrystusem jest jednocześnie zjednoczeniem z wszystkimi, którym On się daje. Nie mogę mieć Chrystusa tylko dla siebie samego; mogę do Niego należeć tylko w jedności z wszystkimi, którzy już stali się lub staną się Jego."
+    },
+    {
+      "title": "Modlitwa w Ogrójcu",
+      "description": "I tajemnica bolesna",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/rosary/sorrowful_1.jpg",
+      "order": 1,
+      "set": "sorrowful",
+      "mdText": "Getsemani – godzina lęku, godzina udręki, smutku, krwawiącego potu, przyjaciół, których oczy są senne i którzy nie rozumieją. Getsemani – godzina modlitwy napiętej jak struna, synowskiej rozmowy z Ojcem, akceptacji z miłością kielicha goryczy.\n\nO Przyjacielu ludzi, Twoje zdanie się na wolę Ojca jest naszą mocą w ewangelicznych decyzjach pośród niebezpieczeństw życia. Umocnij nas na drodze wiary, spraw, byśmy bez lęku umieli oddać życie w imię miłości Życia."
+    },
+    {
+      "title": "Biczowanie Pana Jezusa",
+      "description": "II tajemnica bolesna",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/rosary/sorrowful_2.jpg",
+      "order": 2,
+      "set": "sorrowful",
+      "mdText": "Jezus w milczeniu przyjmuje zniewagi i szyderstwa. Pośród absolutnego niezrozumienia – Król prawdy. Wzgardzony i odepchnięty przez ludzi Mąż boleści, oswojony z cierpieniem… On się obarczył naszym cierpieniem, On dźwigał nasze boleści. (Iz 53, 3.4) Oświeceni Prawdą, która wyzwala, prosimy Cię, naucz nas widzieć Twoje oblicze w każdym człowieku. Twoją obecność w każdym biednym i prześladowanym, w każdym, kto czyni pokój i sprawiedliwość – brata wezwanego do łaski Bożego synostwa."
+    },
+    {
+      "title": "Cierniem ukoronowanie Pana Jezusa",
+      "description": "III tajemnica bolesna",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/rosary/sorrowful_3.jpg",
+      "order": 3,
+      "set": "sorrowful",
+      "mdText": "Św. Jan wiedzie nas do przemiany naszego rozważania w modlitwę przenikniętą uwielbieniem i czułością na widok cierpień Jezusa, ukoronowanego cierniem: Piłat – pisze św. Jan – ponownie wyszedł na zewnątrz i przemówił do nich: Oto wyprowadzam Go do was… abyście poznali, że ja nie znajduję w Nim żadnej winy. Jezus więc wyszedł na zewnątrz, w koronie cierniowej i płaszczu purpurowym. Od tego dnia każde pokolenie ludzkie jest wzywane do wypowiedzenia się przed tym Człowiekiem ukoronowanym cierniem. Nikt nie może pozostać obojętny. Trzeba się opowiedzieć. I to nie tylko słowem, ale także czynem."
+    },
+    {
+      "title": "Droga Krzyżowa Pana Jezusa",
+      "description": "IV tajemnica bolesna",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/rosary/sorrowful_4.jpg",
+      "order": 4,
+      "set": "sorrowful",
+      "mdText": "Teraz Jezus, z całą oczywistością, jest mistrzem, który wyprzedza swoich uczniów, kapłanem wstępującym na ofiarny ołtarz, barankiem niosącym na sobie grzech świata. Od tej pory rozpoczyna się wielki powrót człowieka do domu Ojca. Z krzyżem Jezus oczekuje ostatniego z ludzi, by z nim razem nieść ciężar życia.\n\nJezu, Kapłanie święty, przygnieciony krzyżem, wstąp na wzgórze ofiary, z Twoją ofiarą połącz cierpienia wszystkich narodów i wszystkie ludy zgromadź przy drzewie krzyża. Niech będzie chwała Ci, Chryste. Twój krzyż wskazuje drogę życia, wyznacza szlak nadziei."
+    },
+    {
+      "title": "Ukrzyżowanie Pana Jezusa",
+      "description": "V tajemnica bolesna",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/rosary/sorrowful_5.jpg",
+      "order": 5,
+      "set": "sorrowful",
+      "mdText": "Dwukrotnie wielkim głosem woła umierający Jezus: Boże mój, Boże mój, czemuś Mnie opuścił? Wołanie tajemnicze i pełne bólu. Głos nadziei wbrew rozpaczy, pieśń zwycięstwa nad mocami zła. Jezus, wierny przyjaciel, zdradzony, wyśmiany, potwierdza to, co dokonało się w zaciszu Wieczernika, potwierdza miłość do człowieka, bowiem nikt nie ma większej miłości od tej, gdy ktoś życie swoje oddaje za przyjaciół swoich.\n\nJezu, przez Twoją mękę i śmierć, przebacz nam grzech, mocą Twojego Ducha odnów oblicze ziemi."
+    },
+    {
+      "title": "Zmartwychwstanie Pana Jezusa",
+      "description": "I tajemnica chwalebna",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/rosary/glorious_1.jpg",
+      "order": 1,
+      "set": "glorious",
+      "mdText": "Zmartwychwstanie Chrystusa przyniosło wszystkim nową nadzieję: od tej pory mieć nadzieję nie znaczy już czekać na coś, co ma się dopiero wydarzyć. Znaczy być pewnym, że to się już dokonało, ponieważ Pan zmartwychwstał i króluje żywy. My także jesteśmy powołani, aby spotkać Go osobiście i stać się Jego głosicielami i świadkami, wzorem kobiet i uczniów. Zmartwychwstał już Chrystus, Pan mój i nadzieja – powtarzamy dziś, prosząc Go o odwagę wierności i wytrwanie w dobru. Prosimy Go zwłaszcza o pokój – dar, który nam wyjednał przez swoją śmierć i zmartwychwstanie."
+    },
+    {
+      "title": "Wniebowstąpienie Pana Jezusa",
+      "description": "II tajemnica chwalebna",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/rosary/glorious_2.jpg",
+      "order": 2,
+      "set": "glorious",
+      "mdText": "W Chrystusie wstępującym do nieba doznaje wywyższenia ludzka natura, postawiona po Bożej prawicy, a uczniowie otrzymują nakaz ewangelizowania świata. Ponadto Chrystus, wstępując do nieba, nie wycofuje się z ziemi: ukrył się w obliczu każdego człowieka, zwłaszcza najbardziej nieszczęśliwego – ludzi ubogich, chorych, stojących na marginesie, prześladowanych…"
+    },
+    {
+      "title": "Zesłanie Ducha Świętego",
+      "description": "III tajemnica chwalebna",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/rosary/glorious_3.jpg",
+      "order": 3,
+      "set": "glorious",
+      "mdText": "Trwali jednomyślnie na modlitwie razem z niewiastami, z Maryją, Matką Jezusa, i braćmi Jego (Dz 1, 14). Tę scenę dzisiaj znowu mamy przed oczyma jako w pełni aktualną rzeczywistość. Wszyscy razem, pasterze i wierni, mamy na modlitwie oczy utkwione w Najświętszej Dziewicy, posłusznej animatorce pierwszego ośrodka wspólnoty chrześcijańskiej, którego przeznaczeniem było rozniecenie światła Ewangelii aż po krańce ziemi i aż do finalnego zamknięcia historii."
+    },
+    {
+      "title": "Wniebowzięcie Najświętszej Maryi Panny",
+      "description": "IV tajemnica chwalebna",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/rosary/glorious_4.jpg",
+      "order": 4,
+      "set": "glorious",
+      "mdText": "Wniebowzięcie Maryi objawia wielką wartość i godność ludzkiego ciała. W obliczu profanacji i upodlenia, jakich nierzadko zaznaje we współczesnym społeczeństwie zwłaszcza ciało kobiece, tajemnica wniebowzięcia mówi nam o nadprzyrodzonym przeznaczeniu i o godności każdego ludzkiego ciała, powołanego przez Boga, aby stawało się narzędziem świętości i zyskało udział w Jego chwale. Wpatrując się w Maryję, chrześcijanin uczy się odkrywać wartość własnego ciała i strzec go jako świątyni Bożej, która oczekuje zmartwychwstania."
+    },
+    {
+      "title": "Ukoronowanie Najświętszej Maryi Panny na Królową nieba i Ziemi",
+      "description": "V tajemnica chwalebna",
+      "imageURL": "https://matteozajac.github.io/mercy/resources/image/rosary/glorious_5.jpg",
+      "order": 5,
+      "set": "glorious",
+      "mdText": "Chrześcijanie wpatrują się z ufnością w Maryję Królową, co nie tylko nie umniejsza, ale raczej umacnia ich synowskie zawierzenie Tej, która jest ich Matką porządku łaski. Tak więc chwalebny stan Maryi nie oddala Jej od nas, ale pozwala Jej być zawsze blisko ludzi i otaczać ich opieką. Maryja wie o wszystkim, co dzieje się w naszym życiu, i wspiera nas macierzyńską miłością w życiowych doświadczeniach. Wzięta do chwały niebios, Maryja poświęca się całkowicie dziełu zbawienia, aby móc obdarzyć każdego człowieka szczęściem, które stało się Jej udziałem."
+    }
+  ]
+}
