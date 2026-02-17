@@ -201,11 +201,13 @@
 }
 
 .screenshots-scroll img {
-    flex: 0 0 220px;
-    height: 380px;
+    flex: 0 0 auto;
+    width: 220px;
+    aspect-ratio: 1320 / 2868;
     scroll-snap-align: start;
     border-radius: var(--radius-lg);
     object-fit: cover;
+    object-position: top;
 }
 
 /* Legal */

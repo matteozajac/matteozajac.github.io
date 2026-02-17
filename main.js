@@ -2,6 +2,16 @@
    MATEUSZ ZAJĄC — Interactions & Animations
    ═══════════════════════════════════════════════ */
 
+import { CONFIG } from './config.js';
+
+// --- Inject email from config into all [data-email] elements ---
+document.querySelectorAll('[data-email]').forEach((el) => {
+  el.href = `mailto:${CONFIG.email}`;
+  if (el.dataset.email === 'show') {
+    el.textContent = CONFIG.email;
+  }
+});
+
 // --- Scroll-triggered fade-in ---
 const observerOptions = {
   root: null,

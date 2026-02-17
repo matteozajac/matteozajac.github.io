@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Masseter — Mateusz Zając</title>
+    <meta name="description"
+        content="Masseter — A jaw clenching awareness app for iOS & Apple Watch. Privacy policy and support." />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap"
+        rel="stylesheet" />
+    <link rel="stylesheet" href="/style.css" />
+    <link rel="stylesheet" href="/project-page.css" />
+</head>
+
+<body>
+
+    <!-- Header -->
+    <header id="header">
+        <div class="header-inner">
+            <a href="/" class="logo">Mateusz Zając</a>
+            <nav>
+                <a href="/#work" class="nav-link">Work</a>
+                <span class="nav-dot">•</span>
+                <a href="/sessions.html" class="nav-link">Speaking</a>
+                <span class="nav-dot">•</span>
+                <a href="/#principles" class="nav-link">Thoughts</a>
+                <span class="nav-dot">•</span>
+                <a href="/#me" class="nav-link">Me</a>
+            </nav>
+            <button class="mobile-menu-btn" aria-label="Toggle menu">
+                <span></span><span></span>
+            </button>
+        </div>
+    </header>
+
+    <!-- Mobile Nav Overlay -->
+    <div class="mobile-nav-overlay" id="mobile-nav">
+        <a href="/#work" class="mobile-nav-link">Work</a>
+        <a href="/sessions.html" class="mobile-nav-link">Speaking</a>
+        <a href="/#principles" class="mobile-nav-link">Thoughts</a>
+        <a href="/#me" class="mobile-nav-link">Me</a>
+    </div>
+
+    <div class="project-page">
+        <div class="project-page-inner">
+
+            <a href="/#projects" class="back-link">← Back to Projects</a>
+
+            <!-- Hero -->
+            <section class="project-hero">
+                <div class="project-hero-icon">
+                    <img src="/images/masseter-icon.png" alt="Masseter app icon"
+                        onerror="this.parentElement.textContent='🦷'" />
+                </div>
+                <div class="project-hero-text">
+                    <h1>Masseter</h1>
+                    <p class="project-tagline">Jaw clenching awareness, one check-in at a time.</p>
+                </div>
+            </section>
+
+            <!-- About -->
+            <section class="project-section">
+                <h2>About</h2>
+                <p>
+                    Masseter is an iOS app designed to help you become aware of jaw clenching and teeth grinding
+                    (bruxism) habits throughout the day. By logging quick check-ins — tense or relaxed — you build
+                    a clear picture of your patterns and can take steps to reduce tension.
+                </p>
+                <p>
+                    The app includes an Apple Watch companion for frictionless logging, home screen widgets for
+                    instant check-ins, smart notifications to prompt regular self-checks, and iCloud sync to keep
+                    your data consistent across devices.
+                </p>
+                <div class="project-details-grid">
+                    <div class="detail-item">
+                        <span class="detail-label">Platform</span>
+                        <span class="detail-value">iOS & watchOS</span>
+                    </div>
+                    <div class="detail-item">
+                        <span class="detail-label">Built with</span>
+                        <span class="detail-value">SwiftUI, SwiftData, CloudKit</span>
+                    </div>
+                    <div class="detail-item">
+                        <span class="detail-label">Role</span>
+                        <span class="detail-value">Solo Developer & Designer</span>
+                    </div>
+                    <div class="detail-item">
+                        <span class="detail-label">Features</span>
+                        <span class="detail-value">Watch App, Widgets, Notifications</span>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Screenshots -->
+            <section class="project-section">
+                <h2>Screenshots</h2>
+                <div class="screenshots-scroll">
+                    <img src="/images/masseter-dashboard.png" alt="Dashboard showing Tension Index and daily stats"
+                        loading="lazy" />
+                    <img src="/images/masseter-checkin.png" alt="Check-in screen for logging jaw state"
+                        loading="lazy" />
+                    <img src="/images/masseter-trend.png" alt="Trend chart showing tension over time" loading="lazy" />
+                    <img src="/images/masseter-insights.png" alt="Insights view with personalized tips"
+                        loading="lazy" />
+                    <img src="/images/masseter-heatmap.png" alt="Heatmap visualization of tension patterns"
+                        loading="lazy" />
+                    <img src="/images/masseter-library.png" alt="Exercise library for jaw relaxation" loading="lazy" />
+                    <img src="/images/masseter-onboarding.png" alt="Onboarding welcome screen" loading="lazy" />
+                    <img src="/images/masseter-settings.png" alt="Settings and preferences" loading="lazy" />
+                </div>
+            </section>
+
+            <!-- Privacy Policy -->
+            <section class="project-section" id="privacy">
+                <h2>Privacy Policy</h2>
+                <p class="legal-updated">Last updated: February 2026</p>
+
+                <h3>Data Collection</h3>
+                <p>
+                    Masseter collects only the data you explicitly provide — jaw status check-ins (tense or
+                    relaxed) and optional daily notes. All data is stored locally on your device using SwiftData.
+                </p>
+
+                <h3>iCloud Sync</h3>
+                <p>
+                    If you enable iCloud sync, your check-in data is stored in your private iCloud container.
+                    This data is accessible only to you and is not shared with anyone, including the developer.
+                    You can disable iCloud sync at any time in the app settings.
+                </p>
+
+                <h3>Analytics & Crash Reporting</h3>
+                <p>
+                    The app uses Firebase Crashlytics for crash reporting and anonymous app usage analytics.
+                    These services collect non-personal technical data (such as device model, OS version, and
+                    crash logs) to help improve app stability. No personally identifiable information is
+                    collected or shared.
+                </p>
+
+                <h3>Third-Party Services</h3>
+                <p>
+                    The app does not include any advertising SDKs. The only third-party services used are
+                    Firebase (crash reporting and analytics) and Apple's CloudKit (optional iCloud sync).
+                </p>
+
+                <h3>Data Retention & Deletion</h3>
+                <p>
+                    All check-in data is stored locally on your device. Deleting the app removes all local data.
+                    If iCloud sync is enabled, you can delete your iCloud data through your device's iCloud
+                    storage settings.
+                </p>
+
+                <h3>Children's Privacy</h3>
+                <p>
+                    Masseter is not directed at children under 13. We do not knowingly collect data from
+                    children.
+                </p>
+
+                <h3>Contact</h3>
+                <p>
+                    For privacy-related questions, contact us at
+                    <a data-email="show" href="#">email</a>.
+                </p>
+            </section>
+
+            <!-- Support -->
+            <section class="project-section" id="support">
+                <h2>Support</h2>
+                <p>
+                    Need help with Masseter? Reach out and we'll get back to you.
+                </p>
+
+                <h3>Contact</h3>
+                <p>
+                    For support inquiries, bug reports, or feature requests:
+                    <a data-email="show" href="#">email</a>
+                </p>
+
+                <details class="faq-item">
+                    <summary>What is jaw clenching?</summary>
+                    <p>Jaw clenching (bruxism) is the involuntary tightening of your jaw muscles, often caused
+                        by stress. Over time it can lead to headaches, jaw pain, and dental issues. Masseter
+                        helps you notice these moments so you can consciously relax.</p>
+                </details>
+
+                <details class="faq-item">
+                    <summary>How do check-ins work?</summary>
+                    <p>When a notification arrives — or anytime you remember — tap "Tense" or "Relaxed" to log
+                        your current jaw state. Over time, the app reveals your patterns through daily summaries
+                        and trends.</p>
+                </details>
+
+                <details class="faq-item">
+                    <summary>Is my data stored on a server?</summary>
+                    <p>No. All data is stored locally on your device. If you opt in to iCloud sync, data is
+                        stored in your private iCloud container — only you can access it.</p>
+                </details>
+            </section>
+
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer id="footer">
+        <div class="footer-inner">
+            <p class="footer-copy">© 2026 Mateusz Zając.</p>
+            <div class="footer-links">
+                <a data-email href="#">Email</a>
+                <span class="nav-dot">•</span>
+                <a href="https://www.linkedin.com/in/matteozajac/" target="_blank" rel="noopener">LinkedIn</a>
+                <span class="nav-dot">•</span>
+                <a href="https://github.com/matteozajac" target="_blank" rel="noopener">GitHub</a>
+                <span class="nav-dot">•</span>
+                <a href="https://medium.com/@matteozajac" target="_blank" rel="noopener">Medium</a>
+            </div>
+        </div>
+    </footer>
+
+    <script type="module" src="/main.js"></script>
+</body>
+
+</html>
