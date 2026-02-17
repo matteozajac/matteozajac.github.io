@@ -11,7 +11,7 @@
 .project-page-inner {
     max-width: 720px;
     margin: 0 auto;
-    padding: 0 var(--gutter);
+    padding: 0 24px;
 }
 
 /* Back link */
@@ -274,7 +274,7 @@
 .projects-list-inner {
     max-width: var(--max-width);
     margin: 0 auto;
-    padding: 0 var(--gutter);
+    padding: 0 24px;
 }
 
 .projects-list-inner h1 {
@@ -293,6 +293,10 @@
 
 /* Responsive */
 @media (max-width: 640px) {
+    .project-page {
+        padding-top: 88px;
+    }
+
     .project-hero {
         flex-direction: column;
         align-items: flex-start;

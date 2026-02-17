@@ -864,6 +864,14 @@ tbody td {
     border-bottom: none;
   }
 
+  .projects-scroll {
+    margin-left: -24px;
+    margin-right: -24px;
+    padding-left: 24px;
+    padding-right: 24px;
+    scroll-padding-left: 24px;
+  }
+
   .footer-inner {
     flex-direction: column;
     gap: 16px;
