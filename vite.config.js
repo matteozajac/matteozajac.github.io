@@ -12,6 +12,8 @@ export default defineConfig({
                 geniusIq: resolve(__dirname, 'projects/genius-iq.html'),
                 joinourday: resolve(__dirname, 'projects/joinourday.html'),
                 spatialExperiments: resolve(__dirname, 'projects/spatial-experiments.html'),
+                metka: resolve(__dirname, 'projects/metka.html'),
+                prayerbook: resolve(__dirname, 'projects/prayerbook.html'),
             },
         },
     },
