@@ -8,6 +8,7 @@ export default defineConfig({
                 main: resolve(__dirname, 'index.html'),
                 projects: resolve(__dirname, 'projects.html'),
                 sessions: resolve(__dirname, 'sessions.html'),
+                agentSkills: resolve(__dirname, 'agent-skills.html'),
                 masseter: resolve(__dirname, 'projects/masseter.html'),
                 geniusIq: resolve(__dirname, 'projects/genius-iq.html'),
                 joinourday: resolve(__dirname, 'projects/joinourday.html'),

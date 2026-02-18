@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Agent Skills — Mateusz Zając</title>
+    <meta name="description"
+        content="A curated collection of AI agent skills and tools I use in my development workflow — organized by platform and domain." />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap"
+        rel="stylesheet" />
+    <link rel="stylesheet" href="/style.css" />
+</head>
+
+<body>
+
+    <!-- Header -->
+    <header id="site-header">
+        <div class="header-inner">
+            <a href="/" class="logo">Mateusz Zając</a>
+            <nav>
+                <a href="/#work" class="nav-link">Work</a>
+                <span class="nav-dot">•</span>
+                <a href="/sessions.html" class="nav-link">Speaking</a>
+                <span class="nav-dot">•</span>
+                <a href="/agent-skills.html" class="nav-link active">Skills</a>
+                <span class="nav-dot">•</span>
+                <a href="/#principles" class="nav-link">Thoughts</a>
+                <span class="nav-dot">•</span>
+                <a href="/#me" class="nav-link">Me</a>
+            </nav>
+            <button class="mobile-menu-btn" aria-label="Toggle menu">
+                <span></span><span></span>
+            </button>
+        </div>
+    </header>
+
+    <!-- Mobile Nav Overlay -->
+    <div class="mobile-nav-overlay" id="mobile-nav">
+        <nav class="mobile-nav-links">
+            <a href="/#work">Work</a>
+            <a href="/sessions.html">Speaking</a>
+            <a href="/agent-skills.html">Skills</a>
+            <a href="/#principles">Thoughts</a>
+            <a href="/#me">Me</a>
+        </nav>
+    </div>
+
+    <!-- Skills Page -->
+    <div class="skills-page">
+        <div class="section-inner">
+
+            <!-- Hero -->
+            <section class="skills-hero fade-in">
+                <h1>Agent Skills I Found Useful</h1>
+                <p class="skills-hero-sub">
+                    A living collection of AI agent skills and tools I use across my development workflow.
+                    Organized by platform and domain — install what you need.
+                </p>
+                <div class="skills-meta">
+                    <span class="date-badge">Last updated: February 2026</span>
+                    <a href="https://github.com/matteozajac" target="_blank" rel="noopener" class="skills-repo-link">
+                        View install script on GitHub <span class="arrow">↗</span>
+                    </a>
+                </div>
+            </section>
+
+            <!-- Quick Install -->
+            <section class="skills-install-banner fade-in">
+                <div class="install-banner-inner">
+                    <div class="install-banner-text">
+                        <h2>Quick Install</h2>
+                        <p>Use the install script to set up all skills for a given workflow in one command.</p>
+                    </div>
+                    <div class="install-snippet">
+                        <code>./install-skills.sh <span class="snippet-arg">ios</span></code>
+                        <button class="copy-btn" aria-label="Copy command" onclick="copySnippet(this)">
+                            <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+                                <rect x="5" y="5" width="9" height="9" rx="1.5" stroke="currentColor"
+                                    stroke-width="1.5" />
+                                <path d="M11 5V3.5A1.5 1.5 0 009.5 2h-6A1.5 1.5 0 002 3.5v6A1.5 1.5 0 003.5 11H5"
+                                    stroke="currentColor" stroke-width="1.5" />
+                            </svg>
+                        </button>
+                    </div>
+                </div>
+            </section>
+
+            <!-- ═══════════════════════════════════════ -->
+            <!-- GENERAL                                 -->
+            <!-- ═══════════════════════════════════════ -->
+            <section class="skills-section fade-in" id="general">
+                <div class="skills-section-header">
+                    <h2>General</h2>
+                    <span class="skills-count">3 skills</span>
+                </div>
+                <p class="skills-section-desc">
+                    Foundational skills included in every workflow. These are always installed as a baseline.
+                </p>
+                <div class="skills-grid">
+
+                    <article class="skill-card">
+                        <div class="skill-card-header">
+                            <span class="skill-icon">✍️</span>
+                            <div>
+                                <h3>copywriting</h3>
+                                <span class="skill-tag">skill.sh</span>
+                            </div>
+                        </div>
+                        <p>Write, rewrite, or improve marketing copy for pages — homepage, landing,
+                            pricing, feature pages, and more.</p>
+                        <div class="skill-install">
+                            <code>npx -y @anthropic/skill install copywriting</code>
+                        </div>
+                    </article>
+
+                    <article class="skill-card">
+                        <div class="skill-card-header">
+                            <span class="skill-icon">🎨</span>
+                            <div>
+                                <h3>frontend-design</h3>
+                                <span class="skill-tag">skill.sh</span>
+                            </div>
+                        </div>
+                        <p>Create distinctive, production-grade frontend interfaces with high design
+                            quality. Polished code that avoids generic AI aesthetics.</p>
+                        <div class="skill-install">
+                            <code>npx -y @anthropic/skill install frontend-design</code>
+                        </div>
+                    </article>
+
+                    <article class="skill-card">
+                        <div class="skill-card-header">
+                            <span class="skill-icon">⚡</span>
+                            <div>
+                                <h3>vite</h3>
+                                <span class="skill-tag">skill.sh</span>
+                            </div>
+                        </div>
+                        <p>Vite build tool configuration, plugin API, SSR, and Vite 8 Rolldown migration.
+                            Essential for any Vite-based project.</p>
+                        <div class="skill-install">
+                            <code>npx -y @anthropic/skill install vite</code>
+                        </div>
+                    </article>
+
+                </div>
+            </section>
+
+            <!-- ═══════════════════════════════════════ -->
+            <!-- ASO                                     -->
+            <!-- ═══════════════════════════════════════ -->
+            <section class="skills-section fade-in" id="aso">
+                <div class="skills-section-header">
+                    <h2>App Store Optimization</h2>
+                    <span class="skills-count">Coming soon</span>
+                </div>
+                <p class="skills-section-desc">
+                    Skills for metadata optimization, keyword research, and A/B testing for App Store listings.
+                </p>
+                <div class="empty-section">
+                    <span class="empty-icon">🔍</span>
+                    <p>Skills for this section are being curated. Check back soon.</p>
+                </div>
+            </section>
+
+            <!-- ═══════════════════════════════════════ -->
+            <!-- iOS DEVELOPMENT                         -->
+            <!-- ═══════════════════════════════════════ -->
+            <section class="skills-section fade-in" id="ios">
+                <div class="skills-section-header">
+                    <h2>iOS Development</h2>
+                    <span class="skills-count">Coming soon</span>
+                </div>
+                <p class="skills-section-desc">
+                    SwiftUI, UIKit, concurrency patterns, App Store Connect, and CI/CD skills for iOS apps.
+                </p>
+                <div class="empty-section">
+                    <span class="empty-icon">📱</span>
+                    <p>Skills for this section are being curated. Check back soon.</p>
+                </div>
+            </section>
+
+            <!-- ═══════════════════════════════════════ -->
+            <!-- macOS DEVELOPMENT                       -->
+            <!-- ═══════════════════════════════════════ -->
+            <section class="skills-section fade-in" id="macos">
+                <div class="skills-section-header">
+                    <h2>macOS Development</h2>
+                    <span class="skills-count">Coming soon</span>
+                </div>
+                <p class="skills-section-desc">
+                    AppKit, SwiftUI for macOS, sandboxing, notarization, and Mac-specific tooling.
+                </p>
+                <div class="empty-section">
+                    <span class="empty-icon">💻</span>
+                    <p>Skills for this section are being curated. Check back soon.</p>
+                </div>
+            </section>
+
+            <!-- ═══════════════════════════════════════ -->
+            <!-- visionOS DEVELOPMENT                    -->
+            <!-- ═══════════════════════════════════════ -->
+            <section class="skills-section fade-in" id="visionos">
+                <div class="skills-section-header">
+                    <h2>visionOS Development</h2>
+                    <span class="skills-count">Coming soon</span>
+                </div>
+                <p class="skills-section-desc">
+                    RealityKit, spatial computing, immersive experiences, and Vision Pro development skills.
+                </p>
+                <div class="empty-section">
+                    <span class="empty-icon">🥽</span>
+                    <p>Skills for this section are being curated. Check back soon.</p>
+                </div>
+            </section>
+
+            <!-- ═══════════════════════════════════════ -->
+            <!-- WEBSITE DEVELOPMENT                     -->
+            <!-- ═══════════════════════════════════════ -->
+            <section class="skills-section fade-in" id="website">
+                <div class="skills-section-header">
+                    <h2>Website Development</h2>
+                    <span class="skills-count">3 skills</span>
+                </div>
+                <p class="skills-section-desc">
+                    Frontend design, build tooling, and copywriting — everything for shipping polished web experiences.
+                </p>
+                <div class="skills-grid">
+
+                    <article class="skill-card">
+                        <div class="skill-card-header">
+                            <span class="skill-icon">🎨</span>
+                            <div>
+                                <h3>frontend-design</h3>
+                                <span class="skill-tag">skill.sh</span>
+                            </div>
+                        </div>
+                        <p>Create distinctive, production-grade frontend interfaces with high design
+                            quality. Polished code that avoids generic AI aesthetics.</p>
+                        <div class="skill-install">
+                            <code>npx -y @anthropic/skill install frontend-design</code>
+                        </div>
+                    </article>
+
+                    <article class="skill-card">
+                        <div class="skill-card-header">
+                            <span class="skill-icon">⚡</span>
+                            <div>
+                                <h3>vite</h3>
+                                <span class="skill-tag">skill.sh</span>
+                            </div>
+                        </div>
+                        <p>Vite build tool configuration, plugin API, SSR, and Vite 8 Rolldown migration.
+                            Essential for any Vite-based project.</p>
+                        <div class="skill-install">
+                            <code>npx -y @anthropic/skill install vite</code>
+                        </div>
+                    </article>
+
+                    <article class="skill-card">
+                        <div class="skill-card-header">
+                            <span class="skill-icon">✍️</span>
+                            <div>
+                                <h3>copywriting</h3>
+                                <span class="skill-tag">skill.sh</span>
+                            </div>
+                        </div>
+                        <p>Write, rewrite, or improve marketing copy for pages — homepage, landing,
+                            pricing, feature pages, and more.</p>
+                        <div class="skill-install">
+                            <code>npx -y @anthropic/skill install copywriting</code>
+                        </div>
+                    </article>
+
+                </div>
+            </section>
+
+            <!-- ═══════════════════════════════════════ -->
+            <!-- FIREBASE                                -->
+            <!-- ═══════════════════════════════════════ -->
+            <section class="skills-section fade-in" id="firebase">
+                <div class="skills-section-header">
+                    <h2>Firebase</h2>
+                    <span class="skills-count">Coming soon</span>
+                </div>
+                <p class="skills-section-desc">
+                    Cloud Functions, Firestore, Authentication, Remote Config, and Firebase tooling skills.
+                </p>
+                <div class="empty-section">
+                    <span class="empty-icon">🔥</span>
+                    <p>Skills for this section are being curated. Check back soon.</p>
+                </div>
+            </section>
+
+            <!-- ═══════════════════════════════════════ -->
+            <!-- SUPABASE                                -->
+            <!-- ═══════════════════════════════════════ -->
+            <section class="skills-section fade-in" id="supabase">
+                <div class="skills-section-header">
+                    <h2>Supabase</h2>
+                    <span class="skills-count">Coming soon</span>
+                </div>
+                <p class="skills-section-desc">
+                    Database design, Row Level Security, Edge Functions, and Supabase client integration skills.
+                </p>
+                <div class="empty-section">
+                    <span class="empty-icon">⚡</span>
+                    <p>Skills for this section are being curated. Check back soon.</p>
+                </div>
+            </section>
+
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer id="footer">
+        <div class="footer-inner">
+            <p class="footer-copy">© 2026 Mateusz Zając.</p>
+            <div class="footer-links">
+                <a data-email href="#">Email</a>
+                <span class="nav-dot">•</span>
+                <a href="https://www.linkedin.com/in/matteozajac/" target="_blank" rel="noopener">LinkedIn</a>
+                <span class="nav-dot">•</span>
+                <a href="https://github.com/matteozajac" target="_blank" rel="noopener">GitHub</a>
+                <span class="nav-dot">•</span>
+                <a href="https://medium.com/@matteozajac" target="_blank" rel="noopener">Medium</a>
+            </div>
+        </div>
+    </footer>
+
+    <script type="module" src="/main.js"></script>
+    <script>
+        function copySnippet(btn) {
+            const code = btn.parentElement.querySelector('code');
+            navigator.clipboard.writeText(code.textContent.trim());
+            btn.classList.add('copied');
+            setTimeout(() => btn.classList.remove('copied'), 1500);
+        }
+    </script>
+</body>
+
+</html>
