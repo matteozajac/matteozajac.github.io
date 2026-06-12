@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AirPong Motion — Mateusz Zajac</title>
+    <meta name="description"
+        content="AirPong Motion — a free iOS arcade paddle game built around compatible AirPods head-motion controls, Game Center, and tilt fallback." />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap"
+        rel="stylesheet" />
+    <link rel="stylesheet" href="/style.css" />
+    <link rel="stylesheet" href="/project-page.css" />
+</head>
+
+<body>
+
+    <header id="site-header">
+        <div class="header-inner">
+            <a href="/" class="logo">Mateusz Zając</a>
+            <nav>
+                <a href="/#work" class="nav-link">Work</a>
+                <span class="nav-dot">•</span>
+                <a href="/sessions.html" class="nav-link">Speaking</a>
+                <span class="nav-dot">•</span>
+                <a href="/#principles" class="nav-link">Thoughts</a>
+                <span class="nav-dot">•</span>
+                <a href="/#me" class="nav-link">Me</a>
+            </nav>
+            <button class="mobile-menu-btn" aria-label="Toggle menu">
+                <span></span><span></span>
+            </button>
+        </div>
+    </header>
+
+    <div class="mobile-nav-overlay" id="mobile-nav">
+        <nav class="mobile-nav-links">
+            <a href="/#work">Work</a>
+            <a href="/sessions.html">Speaking</a>
+            <a href="/#principles">Thoughts</a>
+            <a href="/#me">Me</a>
+        </nav>
+    </div>
+
+    <div class="project-page">
+        <div class="project-page-inner">
+
+            <a href="/projects.html" class="back-link">← Back to Projects</a>
+
+            <section class="project-hero">
+                <div class="project-hero-icon">
+                    <img src="/images/airpong-motion/icon.png" alt="AirPong Motion app icon" />
+                </div>
+                <div class="project-hero-text">
+                    <h1>AirPong Motion</h1>
+                    <p class="project-tagline">A head-motion arcade paddle game for compatible AirPods.</p>
+                </div>
+            </section>
+
+            <section class="project-section">
+                <h2>About</h2>
+                <p>
+                    AirPong Motion is a fast arcade paddle game built around head movement. Put on compatible AirPods,
+                    center your head, and guide the paddle by moving naturally as each rally speeds up.
+                </p>
+                <p>
+                    The game is designed for short score-chasing runs, with tilt fallback available when compatible
+                    AirPods are not connected.
+                </p>
+                <div class="project-details-grid">
+                    <div class="detail-item">
+                        <span class="detail-label">Platform</span>
+                        <span class="detail-value">iOS</span>
+                    </div>
+                    <div class="detail-item">
+                        <span class="detail-label">Model</span>
+                        <span class="detail-value">Free at launch</span>
+                    </div>
+                    <div class="detail-item">
+                        <span class="detail-label">Services</span>
+                        <span class="detail-value">Game Center and local network multiplayer</span>
+                    </div>
+                    <div class="detail-item">
+                        <span class="detail-label">Status</span>
+                        <span class="detail-value">App Store launch setup in progress</span>
+                    </div>
+                </div>
+            </section>
+
+            <section class="project-section">
+                <h2>Game Loop</h2>
+                <p>
+                    Return the ball, chase longer rallies, and push your best score one hit higher. Game Center
+                    leaderboards and achievements give AirPods runs a clear score target.
+                </p>
+                <p>
+                    AirPong Motion also supports nearby multiplayer and Game Center multiplayer for quick head-to-head
+                    matches.
+                </p>
+            </section>
+
+            <section class="project-section">
+                <h2>Legal &amp; Support</h2>
+                <p>
+                    The live app links directly to the hosted pages below for privacy, terms, and customer support.
+                </p>
+                <div class="project-details-grid">
+                    <div class="detail-item">
+                        <span class="detail-label">Privacy Policy</span>
+                        <span class="detail-value"><a href="/airpong-motion/privacy.html">Open privacy policy</a></span>
+                    </div>
+                    <div class="detail-item">
+                        <span class="detail-label">Terms of Use</span>
+                        <span class="detail-value"><a href="/airpong-motion/terms.html">Open terms of use</a></span>
+                    </div>
+                    <div class="detail-item">
+                        <span class="detail-label">Support</span>
+                        <span class="detail-value"><a href="/airpong-motion/support.html">Open support page</a></span>
+                    </div>
+                    <div class="detail-item">
+                        <span class="detail-label">Contact</span>
+                        <span class="detail-value"><a data-email="show" href="#">email</a></span>
+                    </div>
+                </div>
+            </section>
+
+        </div>
+    </div>
+
+    <footer id="footer">
+        <div class="footer-inner">
+            <p class="footer-copy">© 2026 Mateusz Zając.</p>
+            <div class="footer-links">
+                <a data-email href="#">Email</a>
+                <span class="nav-dot">•</span>
+                <a href="https://www.linkedin.com/in/matteozajac/" target="_blank" rel="noopener">LinkedIn</a>
+                <span class="nav-dot">•</span>
+                <a href="https://github.com/matteozajac" target="_blank" rel="noopener">GitHub</a>
+                <span class="nav-dot">•</span>
+                <a href="https://medium.com/@matteozajac" target="_blank" rel="noopener">Medium</a>
+            </div>
+        </div>
+    </footer>
+
+    <script type="module" src="/main.js"></script>
+</body>
+
+</html>
