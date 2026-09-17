@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cooking Up Privacy Policy — Mateusz Zając</title>
+    <meta name="description" content="Privacy Policy for Cooking Up: private recipes, iCloud, optional analytics, diagnostics, and upcoming wait-state ads." />
+    <meta name="support-email" content="matteo.zajac@gmail.com" />
+    <link rel="canonical" href="https://matteozajac.com/cooking-up/privacy.html" />
+    <link rel="icon" href="/images/cooking-up/icon.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="/style.css" />
+    <link rel="stylesheet" href="/project-page.css" />
+</head>
+<body>
+    <header id="site-header"><div class="header-inner"><a href="/" class="logo">Mateusz Zając</a><nav><a href="/#work" class="nav-link">Work</a><span class="nav-dot">•</span><a href="/sessions.html" class="nav-link">Speaking</a><span class="nav-dot">•</span><a href="/#principles" class="nav-link">Thoughts</a><span class="nav-dot">•</span><a href="/#me" class="nav-link">Me</a></nav><button class="mobile-menu-btn" aria-label="Toggle menu"><span></span><span></span></button></div></header>
+    <div class="mobile-nav-overlay" id="mobile-nav"><nav class="mobile-nav-links"><a href="/#work">Work</a><a href="/sessions.html">Speaking</a><a href="/#principles">Thoughts</a><a href="/#me">Me</a></nav></div>
+
+    <main class="project-page"><div class="project-page-inner">
+        <a href="/projects/cooking-up.html" class="back-link">← Back to Cooking Up</a>
+        <section class="project-hero">
+            <div class="project-hero-icon"><img src="/images/cooking-up/icon.png" alt="Cooking Up app icon" /></div>
+            <div class="project-hero-text"><h1>Privacy Policy</h1><p class="project-tagline">How Cooking Up handles recipes, iCloud, diagnostics, and wait-state ads.</p></div>
+        </section>
+
+        <section class="project-section">
+            <h2>Overview</h2>
+            <p class="legal-updated">Effective 17 September 2026</p>
+            <p>Cooking Up is provided by Mateusz Zając. It requires no Cooking Up account and does not sell personal data. Your recipes stay in your library and, when you use iCloud, in your private Apple account. For privacy questions, email <a href="mailto:matteo.zajac@gmail.com?subject=Cooking%20Up%20privacy">matteo.zajac@gmail.com</a>.</p>
+            <div class="project-details-grid">
+                <div class="detail-item"><span class="detail-label">Terms of Use</span><span class="detail-value"><a href="/cooking-up/terms.html">Open terms</a></span></div>
+                <div class="detail-item"><span class="detail-label">Support</span><span class="detail-value"><a href="/cooking-up/support.html">Open support</a></span></div>
+                <div class="detail-item"><span class="detail-label">App page</span><span class="detail-value"><a href="/projects/cooking-up.html">Cooking Up project</a></span></div>
+                <div class="detail-item"><span class="detail-label">Contact</span><span class="detail-value"><a href="mailto:matteo.zajac@gmail.com?subject=Cooking%20Up%20privacy">matteo.zajac@gmail.com</a></span></div>
+            </div>
+        </section>
+
+        <section class="project-section">
+            <h2>Recipes stored for you</h2>
+            <p>Cooking Up stores recipes, ingredients, steps, margin notes, photos you attach, cook history, timers, and preferences on your iPhone. When iCloud is available, structured library data syncs through CloudKit’s private database for your Apple Account. Original photos and other media are written to iCloud Drive so you can open them in Files → iCloud Drive → Cooking Up. If iCloud Drive is off, originals stay in the app’s local documents folder.</p>
+            <p>No Cooking Up cloud account or recipe server is operated by the developer. Deleting the app, signing out of iCloud, or turning off iCloud Drive can remove or limit access to this data. Restoring an iCloud or device backup follows your Apple settings. We cannot retrieve a deleted library for you.</p>
+            <p>The optional Home Screen widget and Live Activities show the recipe title and timer labels needed for those surfaces. They do not receive ingredient text, steps, notes, imported text, or media.</p>
+        </section>
+
+        <section class="project-section">
+            <h2>Camera, photos, and timers</h2>
+            <p>If you photograph a cookbook page or handwritten card, Cooking Up uses the camera for that import. If you choose existing pictures, it reads the photos you select. Those images are stored as recipe media as described above. Cooking Up does not request access to your location, contacts, microphone, or advertising identifier in this version.</p>
+            <p>Cook timers can alert you with AlarmKit when a wait finishes, including in Silent Mode, and can show a Live Activity. Timer ownership stays on the installation that started the alert. A random local identifier is stored in Keychain so a restored backup on another device does not take over those alerts. That identifier is not an account credential and is not sent to analytics.</p>
+        </section>
+
+        <section class="project-section">
+            <h2>Importing recipes</h2>
+            <p>You can add a recipe from a webpage, pasted text, photos, or a shared Cooking Up package. Webpage import contacts the original site to fetch the page. On-device text recognition and Apple Intelligence organize a draft when those features are available. You review every draft before it is saved.</p>
+            <p>In supported versions, you can choose a Private Cloud Compute retry. That option sends only that recipe’s source and selected pages to Apple for processing. It is not used unless you choose it. See <a href="https://www.apple.com/legal/privacy/" target="_blank" rel="noopener">Apple’s Privacy Policy</a>.</p>
+            <p>Sharing a recipe sends a copy through the destination you pick. Personal notes and their photos are included only when you enable that option; it defaults to off. The recipient’s later edits stay on their devices.</p>
+        </section>
+
+        <section class="project-section">
+            <h2>Usage analytics</h2>
+            <p>Device builds can send a limited set of app interaction events through Google Analytics for Firebase so we can see which features are used and where people get stuck. Event names are predefined. Allowed values are limited to things like import source, share format, or a coarse timer-duration bucket. Events do not include recipe text, photos, notes, change history, imported URLs, or the contents of a recipe package.</p>
+            <p>The analytics service can process a pseudonymous app-instance identifier, app lifecycle and session events, app and operating-system versions, device characteristics, language, and approximate location derived from a masked IP address. Cooking Up disables advertising-identifier collection, vendor-identifier collection, and advertising personalization signals for analytics. Analytics is not used to remarket to you or to track you across other companies’ apps and websites.</p>
+            <p>Usage analytics is on by default in this first release and can be turned off independently in Settings → Help improve Cooking Up. See <a href="https://policies.google.com/technologies/partner-sites">how Google uses data from partner apps</a> and <a href="https://firebase.google.com/support/privacy">Firebase privacy information</a>.</p>
+        </section>
+
+        <section class="project-section">
+            <h2>Crash diagnostics</h2>
+            <p>Device builds can send technical error and crash reports to Sentry so we can investigate failures. Reports contain crash stack traces, predefined error categories, app and operating-system versions, basic device characteristics, and the release environment. Recipe content, photos, notes, imported text, and contact details are excluded. Session replay, screenshots, and screen recordings are not enabled.</p>
+            <p>Crash diagnostics is on by default and can be turned off independently in Settings. Crash reports can be stored locally and sent after the app next opens. See <a href="https://sentry.io/privacy/">Sentry’s privacy policy</a>.</p>
+        </section>
+
+        <section class="project-section">
+            <h2>Purchases</h2>
+            <p>This version has no in-app purchases or subscriptions. Device builds include RevenueCat so later store products or ad measurement can be added without a new account system. If RevenueCat runs, it may use an anonymous app user identifier and purchase metadata. Cooking Up does not send RevenueCat your name, email address, recipe content, or advertising identifier. Payment-card details stay with Apple. See the <a href="https://www.revenuecat.com/privacy/">RevenueCat Privacy Policy</a>.</p>
+        </section>
+
+        <section class="project-section">
+            <h2>Advertising</h2>
+            <p>Cooking Up is designed for wait-state ads: a clearly labeled slot under a running cook timer, and a similar slot while a recipe is organized on your device. Ads are never placed over ingredients or the current cook instruction. Recipe text, photos, notes, history, and imported links are not passed into an ad.</p>
+            <p>This first App Store version does not include a live advertising SDK and does not request tracking permission. The reserved placements exist in the app today and stay empty for ordinary use. Live advertisements from an advertising partner such as Google AdMob, with measurement through RevenueCat, will begin serving in those wait states shortly after this release.</p>
+            <p>When live ads are enabled, the advertising partner may process ordinary ad-delivery information such as a coarse device and app context needed to fill the slot. Cooking Up may then request App Tracking Transparency. If you decline, ads can still appear in a non-personalized form. The advertising identifier is not used unless you authorize tracking. Related choices will appear in Settings when live ads ship. An optional later purchase may hide wait-state ads; that product is not offered yet.</p>
+            <p>Read <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google’s Privacy Policy</a> for Google advertising services, and the <a href="https://www.revenuecat.com/privacy/">RevenueCat Privacy Policy</a> for ad measurement.</p>
+        </section>
+
+        <section class="project-section">
+            <h2>Support mail and this website</h2>
+            <p>If you email support, we receive your address and whatever you include so we can answer. Please do not send passwords, payment details, or entire recipe collections. We keep correspondence only as needed to handle the request.</p>
+            <p>These pages are hosted on GitHub Pages and load their typeface from Google Fonts. Those providers receive ordinary network information needed to deliver a webpage and font files. Website visits are separate from the app. See the <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">GitHub Privacy Statement</a> and <a href="https://developers.google.com/fonts/faq/privacy">Google Fonts privacy information</a>.</p>
+        </section>
+
+        <section class="project-section">
+            <h2>Retention, rights, and changes</h2>
+            <p>Apple, Google, Sentry, RevenueCat, and GitHub may process information in countries other than yours under their service terms. Local deletion does not delete information already sent to a service, purchase records, or support mail. To request access, correction, deletion, or to object to processing of information we can identify, contact <a href="mailto:matteo.zajac@gmail.com?subject=Cooking%20Up%20privacy%20request">matteo.zajac@gmail.com</a>. Because Cooking Up does not operate personal app accounts, we may not be able to connect anonymous technical information to an individual.</p>
+            <p>Cooking Up is not directed at children. If you believe a child has sent us personal information, contact us so we can address it. Where applicable law gives you additional privacy rights, including a right to complain to a data protection authority, those rights remain available.</p>
+            <p>Material changes will appear here with a new effective date. Turning on live ads, requesting tracking permission, or adding a purchase will be reflected on this page and in the app’s disclosures.</p>
+        </section>
+    </div></main>
+
+    <footer id="footer"><div class="footer-inner"><p class="footer-copy">© 2026 Mateusz Zając.</p><div class="footer-links"><a href="/projects/cooking-up.html">Cooking Up</a><span class="nav-dot">•</span><a href="/cooking-up/privacy.html">Privacy</a><span class="nav-dot">•</span><a href="/cooking-up/terms.html">Terms</a><span class="nav-dot">•</span><a href="/cooking-up/support.html">Support</a></div></div></footer>
+    <script type="module" src="/main.js"></script>
+</body>
+</html>
