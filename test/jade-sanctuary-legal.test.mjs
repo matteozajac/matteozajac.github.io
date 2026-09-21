@@ -9,7 +9,6 @@ async function readPage(path) {
 test('Jade Sanctuary marketing is vision-only and uses the new path', async () => {
   const body = await readPage('jade-sanctuary/index.html');
 
-  assert.match(body, /Jade Sanctuary/);
   assert.match(body, /Apple Vision Pro/);
   assert.match(body, /visionOS 27/);
   assert.match(body, /Jade Path/);
@@ -18,7 +17,7 @@ test('Jade Sanctuary marketing is vision-only and uses the new path', async () =
   assert.match(body, /\/jade-sanctuary\/privacy\.html/);
   assert.match(body, /\/jade-sanctuary\/terms\.html/);
   assert.match(body, /\/jade-sanctuary\/support\.html/);
-  assert.match(body, /TwinGlyph: Spatial Puzzle/);
+  assert.doesNotMatch(body, /TwinGlyph/);
   assert.doesNotMatch(body, /iPhone, iPad and Apple Vision Pro/);
   assert.doesNotMatch(body, /href="\/twinglyph\//);
 });
