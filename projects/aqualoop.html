@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="AquaLoop: Water Ring Toss for iPhone. A little water toy with two thumb pumps, 3D rings, and phone tilt controls. Support and privacy policy.">
+    <title>AquaLoop: Water Ring Toss — Mateusz Zając</title>
+    <style>
+        :root { color-scheme: light; --bg: #f5f5f7; --card: #fff; --text: #111; --secondary: #555; --accent: #0066ff; --border: #e0e0e0; }
+        * { box-sizing: border-box; }
+        html { scroll-padding-top: 24px; }
+        body { margin: 0; background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; line-height: 1.7; letter-spacing: -.01em; }
+        a { color: var(--accent); text-underline-offset: 3px; }
+        a:hover { text-decoration-thickness: 2px; }
+        a:focus-visible, summary:focus-visible { outline: 3px solid var(--accent); outline-offset: 5px; border-radius: 3px; }
+        header, main, footer { width: min(100% - 48px, 720px); margin-inline: auto; }
+        header { display: flex; align-items: center; justify-content: space-between; gap: 20px; padding-block: 24px; border-bottom: 1px solid var(--border); }
+        .owner { color: var(--text); font-weight: 750; text-decoration: none; }
+        nav { display: flex; flex-wrap: wrap; gap: 16px; font-size: .875rem; }
+        nav a { color: var(--secondary); }
+        main { padding-top: 44px; }
+        .back { font-size: .875rem; text-decoration: none; }
+        .hero { padding-block: 36px 44px; }
+        .eyebrow { color: var(--accent); font-size: .75rem; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; }
+        h1 { font-size: clamp(2.25rem, 7vw, 3.5rem); letter-spacing: -.05em; line-height: 1.08; margin: 12px 0 16px; }
+        h1 span { display: block; color: var(--secondary); font-size: .45em; letter-spacing: -.025em; margin-top: 12px; }
+        .tagline { color: var(--secondary); font-size: 1.125rem; max-width: 48ch; }
+        .status { display: inline-block; margin-top: 12px; padding: 6px 12px; border: 1px solid var(--border); border-radius: 999px; background: var(--card); font-size: .8125rem; color: var(--secondary); }
+        section { padding-block: 36px; border-top: 1px solid var(--border); }
+        h2 { font-size: 1.375rem; letter-spacing: -.025em; line-height: 1.3; margin: 0 0 18px; }
+        h3 { font-size: 1rem; margin: 24px 0 8px; }
+        p, li { color: var(--secondary); }
+        p { margin: 0 0 14px; }
+        ul { padding-left: 22px; margin-block: 14px; }
+        li + li { margin-top: 8px; }
+        .facts { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; padding: 24px; margin: 24px 0 0; border: 1px solid var(--border); border-radius: 20px; background: var(--card); }
+        .facts dt { color: var(--secondary); font-size: .6875rem; font-weight: 650; letter-spacing: .08em; text-transform: uppercase; }
+        .facts dd { margin: 4px 0 0; font-size: .9375rem; }
+        details { padding: 16px 20px; margin-top: 12px; border: 1px solid var(--border); border-radius: 12px; background: var(--card); }
+        summary { cursor: pointer; font-weight: 600; }
+        details p { margin: 12px 0 0; }
+        .updated { font-size: .8125rem; color: var(--secondary); }
+        footer { padding-block: 28px 40px; border-top: 1px solid var(--border); font-size: .8125rem; color: var(--secondary); }
+        @media (max-width: 480px) { header { align-items: flex-start; flex-direction: column; gap: 12px; } .facts { grid-template-columns: 1fr; } main { padding-top: 28px; } }
+    </style>
+</head>
+<body>
+    <header>
+        <a class="owner" href="/">Mateusz Zając</a>
+        <nav aria-label="Page navigation">
+            <a href="#about">About</a>
+            <a href="#support">Support</a>
+            <a href="#privacy">Privacy</a>
+        </nav>
+    </header>
+    <main>
+        <a class="back" href="/#projects">← Back to Projects</a>
+        <div class="hero">
+            <div class="eyebrow">A little ocean for iPhone</div>
+            <h1>AquaLoop<span>Water Ring Toss</span></h1>
+            <p class="tagline">Two thumbs, twelve rings, and a current to catch.</p>
+            <p>Press the side pumps. Tilt your iPhone. Guide the rings onto two posts in a pocket-sized water toy brought to life in 3D.</p>
+            <span class="status">Public App Store release in preparation</span>
+        </div>
+
+        <section id="about">
+            <h2>Find your flow</h2>
+            <p>AquaLoop turns the whole display into a water-filled toy. Two thumb pumps send currents across the chamber, and the rings turn and settle as you move your iPhone. A catch can slip off again, so a gentle touch matters.</p>
+            <ul>
+                <li><strong>Free play:</strong> take your time and try to catch all twelve rings.</li>
+                <li><strong>90s Rush:</strong> chain catches and build your multiplier before time runs out.</li>
+                <li><strong>Daily dive:</strong> a daily starting arrangement, with your best score saved on your iPhone.</li>
+                <li><strong>Moon Tide:</strong> earn a short low-gravity bonus after catching three different rings.</li>
+                <li><strong>Make it yours:</strong> choose a theme or mix your own water, backdrop, and pump colors. All current themes are free.</li>
+            </ul>
+            <dl class="facts">
+                <div><dt>Platform</dt><dd>iPhone · iOS 27 or later</dd></div>
+                <div><dt>Controls</dt><dd>Landscape · two pumps · phone tilt</dd></div>
+                <div><dt>Play offline</dt><dd>No account or internet connection needed</dd></div>
+                <div><dt>Options</dt><dd>Tilt assist, sound, and haptic controls</dd></div>
+            </dl>
+        </section>
+
+        <section id="support">
+            <h2>Support</h2>
+            <p>For help, bug reports, feature requests, or privacy questions about AquaLoop, email <a href="mailto:matteo.zajac@gmail.com">matteo.zajac@gmail.com</a>.</p>
+            <p>If you report a problem, your iPhone model, iOS version, and AquaLoop version can help explain it. Include a screenshot only if you choose to. AquaLoop does not send a support report automatically.</p>
+            <details>
+                <summary>How do I move the rings?</summary>
+                <p>Hold your iPhone horizontally. Tap either pump to move water across the bottom, then tilt gently to guide the rings. A brief hold adds a push when you release. Lift a ring above a post and let its hole settle over the tip.</p>
+            </details>
+            <details>
+                <summary>Can I play without moving my iPhone?</summary>
+                <p>Yes. Open Settings in the game and turn on “Tilt assist controls.” Use the on-screen controls to choose left, right, upright, upside down, face up, or face down. Tilt assist is enabled automatically when motion sensors are unavailable.</p>
+            </details>
+            <details>
+                <summary>Can I turn off sound or haptics?</summary>
+                <p>Yes. Open the game's Settings and use “Water sounds” or “Tactile pumps &amp; collisions.” Availability of haptic feedback depends on your iPhone.</p>
+            </details>
+            <details>
+                <summary>Are there purchases, ads, or an online leaderboard?</summary>
+                <p>The current version has no in-app purchases or advertising. All current themes are free. Scores and personal bests stay on your iPhone; there is no online leaderboard.</p>
+            </details>
+        </section>
+
+        <section id="privacy">
+            <h2>Privacy Policy</h2>
+            <p class="updated">AquaLoop: Water Ring Toss · Last updated: 18 October 2026</p>
+            <h3>What the app stores</h3>
+            <p>AquaLoop stores your selected theme, custom colors, sound and haptic preferences, tilt-assist preference, and personal best scores locally on your iPhone. The game does not require an account. It has no developer-operated backend, advertising, analytics SDK, or in-app purchase service.</p>
+            <h3>Motion, sound, and haptics</h3>
+            <p>While motion controls are active, AquaLoop uses Apple's Core Motion framework to read device movement and orientation for gameplay. These samples are processed on the device and are not uploaded by the app. Motion updates stop when the game is inactive or tilt assist is in use. Sound plays from bundled audio files; the game does not record microphone audio. Haptics provide optional pump and collision feedback.</p>
+            <h3>Network use and diagnostics</h3>
+            <p>The game works offline and does not upload gameplay, motion samples, preferences, or scores. Its performance panel shows local frame-timing measurements. Development benchmark captures, when enabled, are saved locally rather than sent to a server.</p>
+            <p>Apple may separately handle App Store or TestFlight information and platform diagnostics according to your Apple settings and Apple's own policies. That platform processing is separate from data transmitted by AquaLoop.</p>
+            <h3>Your local data</h3>
+            <p>AquaLoop does not provide cloud sync. Your local app data may be included in backups managed by iOS according to your device settings. Deleting the app, rather than offloading it, removes its on-device app data; managing or restoring backups is controlled by iOS.</p>
+            <h3>If you contact support</h3>
+            <p>If you choose to email support, the developer receives your email address and whatever information you include so that your request can be answered. Sending that email is your choice; the app does not send it automatically. For questions about this policy or information you have sent, contact <a href="mailto:matteo.zajac@gmail.com">matteo.zajac@gmail.com</a>.</p>
+        </section>
+    </main>
+    <footer>© 2026 Mateusz Zając. <a href="/">matteozajac.com</a></footer>
+</body>
+</html>

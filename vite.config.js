@@ -10,6 +10,7 @@ export default defineConfig({
                 sessions: resolve(__dirname, 'sessions.html'),
                 agentSkills: resolve(__dirname, 'agent-skills.html'),
                 masseter: resolve(__dirname, 'projects/masseter.html'),
+                aquaLoop: resolve(__dirname, 'projects/aqualoop.html'),
                 geniusIq: resolve(__dirname, 'projects/genius-iq.html'),
                 joinourday: resolve(__dirname, 'projects/joinourday.html'),
                 globalTap: resolve(__dirname, 'projects/global-tap.html'),
