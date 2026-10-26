@@ -159,51 +159,54 @@
             <!-- Privacy Policy -->
             <section class="project-section" id="privacy">
                 <h2>Privacy Policy</h2>
-                <p class="legal-updated">Last updated: March 2026</p>
+                <p class="legal-updated">Last updated: October 2026</p>
 
-                <h3>Your Data Stays on Your Device</h3>
+                <h3>Health history and iCloud</h3>
                 <p>
-                    All jaw tension check-ins and notification preferences are stored locally on your device
-                    using SwiftData. Your health data is never uploaded to any external server. There is no
-                    account system — no email, no login, no server-side storage.
+                    Masseter does not require a Masseter account. Your check-ins and health history are stored on your device.
+                    If you enable iCloud sync, they also sync through Apple CloudKit to your private iCloud account. We do not
+                    send that health history to RevenueCat, Firebase or Sentry. Reports and exports you choose to share remain
+                    under your control.
                 </p>
 
-                <h3>Analytics</h3>
+                <h3>Purchases and Apple Ads measurement</h3>
                 <p>
-                    Masseter uses Firebase Analytics to collect anonymous usage data (e.g. which screens are
-                    visited, app launches). This data contains no personal identifiers and is used solely to
-                    improve the app experience.
+                    RevenueCat validates purchases, restores access and keeps purchase history. Apple's standard AdServices
+                    attribution can provide acquisition information, including campaign, ad group, keyword and country when
+                    available. RevenueCat associates that information with a pseudonymous customer record so we can measure
+                    purchases and revenue attributed to Apple Ads. This integration adds no ATT prompt or IDFA collection. Your
+                    health history is not used for this measurement.
                 </p>
 
-                <h3>Subscription Processing</h3>
+                <h3>Usage analytics and diagnostics</h3>
                 <p>
-                    In-app purchases are processed through <a href="https://www.revenuecat.com/privacy" target="_blank" rel="noopener">RevenueCat</a>,
-                    which handles subscription management on behalf of the developer. RevenueCat receives only
-                    the transaction data necessary to manage your subscription — no health or check-in data is
-                    shared with them.
+                    Firebase receives usage events, and Sentry receives sanitized crash and error diagnostics. These services
+                    can receive an app-generated pseudonymous ID and technical app/device information. Where usage analytics is
+                    enabled, Firebase also receives verified purchase analytics. Health values and free-text health entries are
+                    excluded.
+                </p>
+                <p>
+                    The Firebase usage-analytics and Sentry diagnostics switches are on by default and can be turned off
+                    separately in Settings. They do not disable RevenueCat purchase management or Apple Ads acquisition
+                    measurement.
                 </p>
 
-                <h3>No Tracking, No Ads</h3>
+                <h3>Advertising and data retention</h3>
                 <p>
-                    Masseter does not contain any advertising. Your data is never sold, shared with advertisers,
-                    or used to track you across other apps or websites.
+                    Masseter does not display advertisements or sell your health history. We do not use your health history to
+                    target advertisements. The Apple Ads connection described above measures acquisition and purchases.
+                </p>
+                <p>
+                    Deleting the app removes its local application data; it does not automatically delete private iCloud data,
+                    Apple Health data, Apple's purchase records, or records held by our service providers. Provider data is
+                    subject to their configured retention and deletion practices. No fixed retention period is promised here.
+                    For questions or a data deletion request, contact <a
+                    href="mailto:matteo.zajac@gmail.com">matteo.zajac@gmail.com</a>.
                 </p>
 
-                <h3>Data Deletion</h3>
+                <h3>Children's privacy</h3>
                 <p>
-                    Deleting the app removes all locally stored data. There is no server-side data to delete.
-                </p>
-
-                <h3>Children's Privacy</h3>
-                <p>
-                    Masseter is not directed at children under 13. We do not knowingly collect data from
-                    children.
-                </p>
-
-                <h3>Contact</h3>
-                <p>
-                    For privacy-related questions, contact
-                    <a data-email="show" href="#">email</a>.
+                    Masseter is not directed at children under 13. We do not knowingly collect data from children.
                 </p>
             </section>
 
